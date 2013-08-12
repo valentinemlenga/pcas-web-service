@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/CPAN/Exception
+END
+RecursiveDependency.pm
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/CPAN/Exception/RecursiveDependency.pm
+END
+blocked_urllist.pm
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/CPAN/Exception/blocked_urllist.pm
+END
+yaml_not_installed.pm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/CPAN/Exception/yaml_not_installed.pm
+END

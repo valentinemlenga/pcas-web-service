@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/MooseX/Role/WithOverloading/Meta/Role/Application
+END
+ToRole.pm
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/MooseX/Role/WithOverloading/Meta/Role/Application/ToRole.pm
+END
+ToInstance.pm
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/MooseX/Role/WithOverloading/Meta/Role/Application/ToInstance.pm
+END
+ToClass.pm
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/MooseX/Role/WithOverloading/Meta/Role/Application/ToClass.pm
+END
+FixOverloadedRefs.pm
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/MooseX/Role/WithOverloading/Meta/Role/Application/FixOverloadedRefs.pm
+END
+Composite.pm
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/MooseX/Role/WithOverloading/Meta/Role/Application/Composite.pm
+END

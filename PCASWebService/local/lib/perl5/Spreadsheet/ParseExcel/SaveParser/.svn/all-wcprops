@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Spreadsheet/ParseExcel/SaveParser
+END
+Worksheet.pm
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Spreadsheet/ParseExcel/SaveParser/Worksheet.pm
+END
+Workbook.pm
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Spreadsheet/ParseExcel/SaveParser/Workbook.pm
+END

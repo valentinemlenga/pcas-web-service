@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/JSON/backportPP
+END
+Compat5005.pm
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/JSON/backportPP/Compat5005.pm
+END
+Compat5006.pm
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/JSON/backportPP/Compat5006.pm
+END
+Boolean.pm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/JSON/backportPP/Boolean.pm
+END

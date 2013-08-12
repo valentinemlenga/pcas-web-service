@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/TAP/Parser
+END
+ResultFactory.pm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/TAP/Parser/ResultFactory.pm
+END
+Grammar.pm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/TAP/Parser/Grammar.pm
+END
+Iterator.pm
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/TAP/Parser/Iterator.pm
+END
+Multiplexer.pm
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/TAP/Parser/Multiplexer.pm
+END
+Result.pm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/TAP/Parser/Result.pm
+END
+Scheduler.pm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/TAP/Parser/Scheduler.pm
+END
+SourceHandler.pm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/TAP/Parser/SourceHandler.pm
+END
+Source.pm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/TAP/Parser/Source.pm
+END
+Utils.pm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/TAP/Parser/Utils.pm
+END
+IteratorFactory.pm
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/TAP/Parser/IteratorFactory.pm
+END
+Aggregator.pm
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/TAP/Parser/Aggregator.pm
+END

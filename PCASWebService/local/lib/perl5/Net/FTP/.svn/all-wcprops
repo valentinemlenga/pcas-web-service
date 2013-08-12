@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Net/FTP
+END
+E.pm
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Net/FTP/E.pm
+END
+dataconn.pm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Net/FTP/dataconn.pm
+END
+I.pm
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Net/FTP/I.pm
+END
+L.pm
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Net/FTP/L.pm
+END
+A.pm
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Net/FTP/A.pm
+END

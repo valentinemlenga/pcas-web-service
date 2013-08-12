@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/YAML
+END
+Types.pm
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/YAML/Types.pm
+END
+Node.pm
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/YAML/Node.pm
+END
+Loader.pm
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/YAML/Loader.pm
+END
+Any.pm
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/YAML/Any.pm
+END
+Error.pm
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/YAML/Error.pm
+END
+Base.pm
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/YAML/Base.pm
+END
+Tag.pm
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/YAML/Tag.pm
+END
+Dumper.pm
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/YAML/Dumper.pm
+END
+Marshall.pm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/YAML/Marshall.pm
+END
+Tiny.pm
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/YAML/Tiny.pm
+END

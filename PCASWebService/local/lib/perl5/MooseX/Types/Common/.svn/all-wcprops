@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/MooseX/Types/Common
+END
+String.pm
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/MooseX/Types/Common/String.pm
+END
+Numeric.pm
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/MooseX/Types/Common/Numeric.pm
+END

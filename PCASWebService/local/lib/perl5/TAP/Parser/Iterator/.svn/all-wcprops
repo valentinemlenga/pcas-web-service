@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/TAP/Parser/Iterator
+END
+Stream.pm
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/TAP/Parser/Iterator/Stream.pm
+END
+Array.pm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/TAP/Parser/Iterator/Array.pm
+END
+Process.pm
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/TAP/Parser/Iterator/Process.pm
+END

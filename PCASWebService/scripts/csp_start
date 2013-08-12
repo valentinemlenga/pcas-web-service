@@ -1,0 +1,201 @@
+#!/bin/sh
+
+##
+## Start a leaf catalyst server quickly, from anywhere
+##
+## (Do NOT use in a production environment)
+##
+## Run with -h or -? for usage information
+##
+## optional environment variables to set: 
+##
+##    LEAF_LIB_DIR
+##      The location of your leaf/lib directory.
+##      E.g. export LEAF_LIB_DIR=/home/jmcguire/eaccred/leaf/lib
+##    EACCRED_DIR
+##      The location of all of your client code bases.
+##      E.g. export EACCRED_DIR=/home/jmcguire/eaccred
+##    DEFAULT_LEAF_PORT
+##      The port number you run the catalyst server on.
+##      E.g. export DEFAULT_LEAF_PORT=1500
+##
+## If any of these are not set, we will try to find them on our own. Even if
+## these are set, we will still check them before we use them.
+##
+
+##
+## usage
+##
+## This function displays the usage message and exits. It takes in one optional
+## argument, an error string.
+##
+usage() {
+  if [ "$1" != "" ]; then
+    printf "Error: $1\n\n"
+  fi
+
+  cat << USAGE_MSG
+usage: $0 <client> (-p <port_number>) (-b) (-y <survey_id>)
+
+This program will automatically start a server for the specified client.
+<client> is just a base level svn repository folder, like "coarc" or "acote".
+
+This program does it's best to automatically find all relevant directories.
+
+  <client>  The name of the LEAF client, also the name of the folder the client
+       is in. Something like "coarc", or "cahme".
+       (Required, mostly)
+
+  -p   will set the port number. If this is blank, then we use the environmental
+       variable DEFAULT_LEAF_PORT. If that is blank, then you'll be assigned an
+       arbitrary (but consistent per user) number.
+       (Optional)
+
+  -b   Start the server in the background. This isn't implemented yet.
+       (Optional)
+
+  -l   will set the LEAF_LIB_DIR. it should be the directory of your LEAF
+       lib. Something like ~/eaacred/leaf/branches/dev/lib . You can also set
+       this by setting the LEAF_LIB_DIR variable in your bash config.
+       (Optional)
+
+  -y   will set the survey id. 6 for Pharmcas, 8 for Pass, 9 for Dhcas and 10 for PCAS grad.
+       (Required, mostly)
+
+USAGE_MSG
+  exit
+}
+
+##
+## Main
+##
+
+## we can use "start" with no arguments if we're already in catalyst project
+## (note, we can't use any command line arguments if we do this.)
+if [ $# -eq 0 ]; then
+  ## look for a server starting script
+  if [ `ls script/*_server.pl | wc -l` -eq 1 ]; then
+    SITE=`ls script/*_server.pl | sed -r 's/script\/(.+)_server\.pl/\1/'`
+    CLIENT_DIR=`pwd`
+  else
+    usage
+  fi
+else
+  ## but normally we'll have at least one argument, the client name is first
+  SITE=$1; shift
+fi
+DEBUG=0
+## process our regular command line arguments
+while getopts :p:y:bdl: opt
+do
+  case "$opt" in
+    p) DEFAULT_LEAF_PORT="$OPTARG";;
+    b) echo "BACKGROUND MODE NOT IMPLEMENTED";;
+    s) echo "DBIC_TRACE (SQL) NOT IMPLEMENTED";;
+    d) DEBUG=1;;
+    l) LEAF_LIB_DIR="$OPTARG";;
+    y) SURVEY_TYPE_ID="$OPTARG";;
+    ?) usage;;
+  esac
+done
+
+#set survey id in env
+if [ $SURVEY_TYPE_ID ]; then
+ CSP_SURVEY_ID=$SURVEY_TYPE_ID;
+ export CSP_SURVEY_ID
+ else
+  echo "Please enter a survey id. See Usage below!\n"
+  usage 
+fi
+
+## find our CLIENT_DIR, based on the EACCRED_DIR if it is set
+
+if [ x"$CLIENT_DIR" = "x" ]; then
+  if [ x"$EACCRED_DIR" = "x" ]; then
+    echo "EACCRED_DIR not set, searching..."
+    CLIENT_DIR=`find $HOME -maxdepth 2 -type d -name $SITE 2>/dev/null | head -1`
+  else
+    CLIENT_DIR="$EACCRED_DIR/$SITE"
+  fi
+fi
+## verify that we found something
+if [ ! -d $CLIENT_DIR ]; then
+  usage "Can't find a valid eaccred directory. Looking in $CLIENT_DIR. Where do you store your $SITE directory?"
+fi
+if [ x"$CLIENT_DIR" = "x" ]; then
+  usage "Can't find a valid eaccred directory. Where do you store your $SITE directory?"
+fi
+
+## find LEAF_LIB_DIR, make sure it's set
+## TODO: maybe just find the leaf_lib_dir based on the application's config file?
+
+SUBDIRS="$LEAF_LIB_DIR $CLIENT_DIR/../leaf/lib $CLIENT_DIR/../leaf/branches/dev/lib $HOME/leaf/lib $HOME/leaf/branches/dev/lib"
+for SUBDIR in $SUBDIRS
+do
+  if [ -d $SUBDIR ]; then
+    LEAF_LIB_DIR=$SUBDIR
+    break
+  fi
+done
+## check that a dir was found
+if [ ! -d $LEAF_LIB_DIR ]; then
+  usage "Can't find a valid leaf lib dir"
+fi
+if [ x"$LEAF_LIB_DIR" = "x" ]; then
+  usage "Can't find a leaf lib dir"
+fi
+
+## find the directory where our server is.
+
+SUBDIRS="$CLIENT_DIR $CLIENT_DIR/branches/dev $CLIENT_DIR/branches/leafdev $CLIENT_DIR/trunk"
+for SUBDIR in $SUBDIRS
+do
+  if [ -r $SUBDIR/script/casschoolpages_server.pl ]; then
+    STARTDIR=$SUBDIR
+    break
+  fi
+done
+## check that a dir was found
+if [ x"$STARTDIR" = "x" ]; then
+  usage "Can't find a valid working server branch/trunk for $SITE, empty."
+fi
+if [ ! -r $STARTDIR ]; then
+  usage "Can't find a valid working server branch/trunk for $SITE, tried $STARTDIR"
+fi
+
+## get our port number
+a="${DEFAULT_LEAF_PORT=`echo $USER | cksum | cut -c 1-4`}"
+
+## join the restart directories into one string
+
+AUTORESTART="-r"
+RESTART_DIRS="$STARTDIR/lib $LEAF_LIB_DIR"
+for DIR in $RESTART_DIRS
+do
+  AUTORESTART="$AUTORESTART --restart_directory ${DIR}"
+done
+
+## dump and debug if we have the -d option
+if [ $DEBUG -eq 1 ]; then
+  echo "STARTDIR: $STARTDIR"
+  echo "SITE: $SITE"
+  echo "DEFAULT_LEAF_PORT: $DEFAULT_LEAF_PORT"
+  echo "EACCRED_DIR: $EACCRED_DIR"
+  echo "LEAF_LIB_DIR: $LEAF_LIB_DIR"
+  echo "RESTART_DIRS: $RESTART_DIRS"
+  echo "AUTORESTART: $AUTORESTART"
+  echo
+  echo "pushd $STARTDIR"
+  echo "./script/casschoolpages_server.pl -p $DEFAULT_LEAF_PORT $AUTORESTART"
+  exit
+fi
+
+## now execute everything we've put together
+
+pushd $STARTDIR
+./script/casschoolpages_server.pl -d -p $DEFAULT_LEAF_PORT $AUTORESTART
+
+## clean up after we exit
+popd
+
+exit

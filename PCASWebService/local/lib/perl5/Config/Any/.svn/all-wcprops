@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Config/Any
+END
+JSON.pm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Config/Any/JSON.pm
+END
+Base.pm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Config/Any/Base.pm
+END
+General.pm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Config/Any/General.pm
+END
+INI.pm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Config/Any/INI.pm
+END
+XML.pm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Config/Any/XML.pm
+END
+Perl.pm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Config/Any/Perl.pm
+END
+YAML.pm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Config/Any/YAML.pm
+END

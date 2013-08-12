@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Net
+END
+Config.pm
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Net/Config.pm
+END
+Domain.pm
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Net/Domain.pm
+END
+FTP.pm
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Net/FTP.pm
+END
+Netrc.pm
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Net/Netrc.pm
+END
+libnetFAQ.pod
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Net/libnetFAQ.pod
+END
+Time.pm
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Net/Time.pm
+END
+NNTP.pm
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Net/NNTP.pm
+END
+libnet.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Net/libnet.cfg
+END
+POP3.pm
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Net/POP3.pm
+END
+Cmd.pm
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Net/Cmd.pm
+END
+SMTP.pm
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Net/SMTP.pm
+END

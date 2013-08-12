@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Module
+END
+CoreList.pm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Module/CoreList.pm
+END
+Build.pm
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Module/Build.pm
+END
+Load.pm
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Module/Load.pm
+END
+ScanDeps.pm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Module/ScanDeps.pm
+END
+Pluggable.pm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Module/Pluggable.pm
+END

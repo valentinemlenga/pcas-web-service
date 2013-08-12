@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/auto/DBI
+END
+DBIXS.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/auto/DBI/DBIXS.h
+END
+Driver_xst.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/auto/DBI/Driver_xst.h
+END
+dbivport.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/auto/DBI/dbivport.h
+END
+DBI.bs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/auto/DBI/DBI.bs
+END
+dbd_xsh.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/auto/DBI/dbd_xsh.h
+END
+dbi_sql.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/auto/DBI/dbi_sql.h
+END
+.packlist
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/auto/DBI/.packlist
+END
+Driver.xst
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/auto/DBI/Driver.xst
+END
+dbipport.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/auto/DBI/dbipport.h
+END
+dbixs_rev.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/auto/DBI/dbixs_rev.h
+END
+DBI.so
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/auto/DBI/DBI.so
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Data
+END
+Dump.pm
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Data/Dump.pm
+END
+Serializer.pm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Data/Serializer.pm
+END
+OptList.pm
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Data/OptList.pm
+END
+Visitor.pm
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Data/Visitor.pm
+END

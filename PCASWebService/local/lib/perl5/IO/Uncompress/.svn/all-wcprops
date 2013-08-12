@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/IO/Uncompress
+END
+Unzip.pm
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/IO/Uncompress/Unzip.pm
+END
+AnyUncompress.pm
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/IO/Uncompress/AnyUncompress.pm
+END
+Bunzip2.pm
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/IO/Uncompress/Bunzip2.pm
+END
+AnyInflate.pm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/IO/Uncompress/AnyInflate.pm
+END
+Base.pm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/IO/Uncompress/Base.pm
+END
+Gunzip.pm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/IO/Uncompress/Gunzip.pm
+END
+RawInflate.pm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/IO/Uncompress/RawInflate.pm
+END
+Inflate.pm
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/IO/Uncompress/Inflate.pm
+END

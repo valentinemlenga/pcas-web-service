@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/URI/file
+END
+QNX.pm
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/URI/file/QNX.pm
+END
+Base.pm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/URI/file/Base.pm
+END
+FAT.pm
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/URI/file/FAT.pm
+END
+Mac.pm
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/URI/file/Mac.pm
+END
+Win32.pm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/URI/file/Win32.pm
+END
+OS2.pm
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/URI/file/OS2.pm
+END
+Unix.pm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/URI/file/Unix.pm
+END

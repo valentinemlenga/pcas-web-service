@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/webservices/!svn/ver/5/trunk/local/lib/perl5/XML/SAX/PurePerl
+END
+DebugHandler.pm
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/webservices/!svn/ver/5/trunk/local/lib/perl5/XML/SAX/PurePerl/DebugHandler.pm
+END
+NoUnicodeExt.pm
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/webservices/!svn/ver/5/trunk/local/lib/perl5/XML/SAX/PurePerl/NoUnicodeExt.pm
+END
+DTDDecls.pm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/webservices/!svn/ver/5/trunk/local/lib/perl5/XML/SAX/PurePerl/DTDDecls.pm
+END
+DocType.pm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/webservices/!svn/ver/5/trunk/local/lib/perl5/XML/SAX/PurePerl/DocType.pm
+END
+UnicodeExt.pm
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/webservices/!svn/ver/5/trunk/local/lib/perl5/XML/SAX/PurePerl/UnicodeExt.pm
+END
+XMLDecl.pm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/webservices/!svn/ver/5/trunk/local/lib/perl5/XML/SAX/PurePerl/XMLDecl.pm
+END
+Productions.pm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/webservices/!svn/ver/5/trunk/local/lib/perl5/XML/SAX/PurePerl/Productions.pm
+END
+Exception.pm
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/webservices/!svn/ver/5/trunk/local/lib/perl5/XML/SAX/PurePerl/Exception.pm
+END
+EncodingDetect.pm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/webservices/!svn/ver/5/trunk/local/lib/perl5/XML/SAX/PurePerl/EncodingDetect.pm
+END
+Reader.pm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/webservices/!svn/ver/5/trunk/local/lib/perl5/XML/SAX/PurePerl/Reader.pm
+END

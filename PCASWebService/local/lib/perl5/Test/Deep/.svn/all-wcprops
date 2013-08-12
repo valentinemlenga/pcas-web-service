@@ -1,0 +1,239 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Test/Deep
+END
+HashEach.pm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Test/Deep/HashEach.pm
+END
+String.pm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Test/Deep/String.pm
+END
+All.pm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Test/Deep/All.pm
+END
+MM.pm
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Test/Deep/MM.pm
+END
+Shallow.pm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Test/Deep/Shallow.pm
+END
+Code.pm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Test/Deep/Code.pm
+END
+ArrayElementsOnly.pm
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Test/Deep/ArrayElementsOnly.pm
+END
+RefType.pm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Test/Deep/RefType.pm
+END
+Array.pm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Test/Deep/Array.pm
+END
+HashKeys.pm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Test/Deep/HashKeys.pm
+END
+Boolean.pm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Test/Deep/Boolean.pm
+END
+Cmp.pm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Test/Deep/Cmp.pm
+END
+HashKeysOnly.pm
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Test/Deep/HashKeysOnly.pm
+END
+Blessed.pm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Test/Deep/Blessed.pm
+END
+Ignore.pm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Test/Deep/Ignore.pm
+END
+Number.pm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Test/Deep/Number.pm
+END
+Set.pm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Test/Deep/Set.pm
+END
+RegexpMatches.pm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Test/Deep/RegexpMatches.pm
+END
+ArrayEach.pm
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Test/Deep/ArrayEach.pm
+END
+RegexpVersion.pm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Test/Deep/RegexpVersion.pm
+END
+ScalarRef.pm
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Test/Deep/ScalarRef.pm
+END
+ScalarRefOnly.pm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Test/Deep/ScalarRefOnly.pm
+END
+Class.pm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Test/Deep/Class.pm
+END
+Stack.pm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Test/Deep/Stack.pm
+END
+Ref.pm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Test/Deep/Ref.pm
+END
+NoTest.pm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Test/Deep/NoTest.pm
+END
+Isa.pm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Test/Deep/Isa.pm
+END
+HashElements.pm
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Test/Deep/HashElements.pm
+END
+ArrayLength.pm
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Test/Deep/ArrayLength.pm
+END
+ArrayLengthOnly.pm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Test/Deep/ArrayLengthOnly.pm
+END
+Hash.pm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Test/Deep/Hash.pm
+END
+RegexpRef.pm
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Test/Deep/RegexpRef.pm
+END
+Any.pm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Test/Deep/Any.pm
+END
+RegexpRefOnly.pm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Test/Deep/RegexpRefOnly.pm
+END
+Regexp.pm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Test/Deep/Regexp.pm
+END
+RegexpOnly.pm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Test/Deep/RegexpOnly.pm
+END
+ListMethods.pm
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Test/Deep/ListMethods.pm
+END
+Methods.pm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Test/Deep/Methods.pm
+END
+Cache.pm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Test/Deep/Cache.pm
+END

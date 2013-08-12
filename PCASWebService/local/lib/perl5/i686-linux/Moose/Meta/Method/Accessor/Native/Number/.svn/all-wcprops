@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/Moose/Meta/Method/Accessor/Native/Number
+END
+abs.pm
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/Moose/Meta/Method/Accessor/Native/Number/abs.pm
+END
+add.pm
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/Moose/Meta/Method/Accessor/Native/Number/add.pm
+END
+sub.pm
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/Moose/Meta/Method/Accessor/Native/Number/sub.pm
+END
+set.pm
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/Moose/Meta/Method/Accessor/Native/Number/set.pm
+END
+mul.pm
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/Moose/Meta/Method/Accessor/Native/Number/mul.pm
+END
+mod.pm
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/Moose/Meta/Method/Accessor/Native/Number/mod.pm
+END
+div.pm
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/Moose/Meta/Method/Accessor/Native/Number/div.pm
+END

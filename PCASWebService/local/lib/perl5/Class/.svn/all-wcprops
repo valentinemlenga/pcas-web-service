@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Class
+END
+C3.pm
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Class/C3.pm
+END
+Inspector.pm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Class/Inspector.pm
+END
+Accessor.pm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Class/Accessor.pm
+END

@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/Template/Plugin
+END
+HTML.pm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/Template/Plugin/HTML.pm
+END
+Directory.pm
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/Template/Plugin/Directory.pm
+END
+Scalar.pm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/Template/Plugin/Scalar.pm
+END
+String.pm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/Template/Plugin/String.pm
+END
+Datafile.pm
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/Template/Plugin/Datafile.pm
+END
+Wrap.pm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/Template/Plugin/Wrap.pm
+END
+View.pm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/Template/Plugin/View.pm
+END
+Date.pm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/Template/Plugin/Date.pm
+END
+File.pm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/Template/Plugin/File.pm
+END
+Pod.pm
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/Template/Plugin/Pod.pm
+END
+Image.pm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/Template/Plugin/Image.pm
+END
+Filter.pm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/Template/Plugin/Filter.pm
+END
+Table.pm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/Template/Plugin/Table.pm
+END
+Format.pm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/Template/Plugin/Format.pm
+END
+Math.pm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/Template/Plugin/Math.pm
+END
+Iterator.pm
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/Template/Plugin/Iterator.pm
+END
+Dumper.pm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/Template/Plugin/Dumper.pm
+END
+Procedural.pm
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/Template/Plugin/Procedural.pm
+END
+Assert.pm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/Template/Plugin/Assert.pm
+END
+CGI.pm
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/Template/Plugin/CGI.pm
+END
+URL.pm
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/Template/Plugin/URL.pm
+END

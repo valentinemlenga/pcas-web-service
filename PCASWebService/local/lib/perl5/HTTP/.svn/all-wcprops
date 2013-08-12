@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/webservices/!svn/ver/7/trunk/local/lib/perl5/HTTP
+END
+Message.pm
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/webservices/!svn/ver/6/trunk/local/lib/perl5/HTTP/Message.pm
+END
+Config.pm
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/webservices/!svn/ver/6/trunk/local/lib/perl5/HTTP/Config.pm
+END
+Request.pm
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/webservices/!svn/ver/6/trunk/local/lib/perl5/HTTP/Request.pm
+END
+Headers.pm
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/webservices/!svn/ver/6/trunk/local/lib/perl5/HTTP/Headers.pm
+END
+Cookies.pm
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/webservices/!svn/ver/6/trunk/local/lib/perl5/HTTP/Cookies.pm
+END
+Date.pm
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/webservices/!svn/ver/6/trunk/local/lib/perl5/HTTP/Date.pm
+END
+Body.pm
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/webservices/!svn/ver/6/trunk/local/lib/perl5/HTTP/Body.pm
+END
+Response.pm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/webservices/!svn/ver/6/trunk/local/lib/perl5/HTTP/Response.pm
+END
+Negotiate.pm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/webservices/!svn/ver/6/trunk/local/lib/perl5/HTTP/Negotiate.pm
+END
+Status.pm
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/webservices/!svn/ver/6/trunk/local/lib/perl5/HTTP/Status.pm
+END
+Daemon.pm
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/webservices/!svn/ver/6/trunk/local/lib/perl5/HTTP/Daemon.pm
+END

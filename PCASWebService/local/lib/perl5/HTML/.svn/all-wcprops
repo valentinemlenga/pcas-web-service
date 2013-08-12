@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/HTML
+END
+TreeBuilder.pm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/HTML/TreeBuilder.pm
+END
+Tagset.pm
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/HTML/Tagset.pm
+END
+Element.pm
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/HTML/Element.pm
+END
+Parse.pm
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/HTML/Parse.pm
+END
+Tree.pm
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/HTML/Tree.pm
+END
+AsSubs.pm
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/HTML/AsSubs.pm
+END

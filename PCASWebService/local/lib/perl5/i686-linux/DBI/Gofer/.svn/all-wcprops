@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/DBI/Gofer
+END
+Request.pm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/DBI/Gofer/Request.pm
+END
+Response.pm
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/DBI/Gofer/Response.pm
+END
+Execute.pm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/DBI/Gofer/Execute.pm
+END

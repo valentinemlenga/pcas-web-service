@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/File/ChangeNotify
+END
+Watcher.pm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/File/ChangeNotify/Watcher.pm
+END
+ConfigData.pm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/File/ChangeNotify/ConfigData.pm
+END
+Event.pm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/File/ChangeNotify/Event.pm
+END

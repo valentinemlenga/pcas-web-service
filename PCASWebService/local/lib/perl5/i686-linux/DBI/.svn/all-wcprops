@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/DBI
+END
+FAQ.pm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/DBI/FAQ.pm
+END
+Changes.pm
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/DBI/Changes.pm
+END
+ProxyServer.pm
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/DBI/ProxyServer.pm
+END
+DBD.pm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/DBI/DBD.pm
+END
+ProfileData.pm
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/DBI/ProfileData.pm
+END
+ProfileDumper.pm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/DBI/ProfileDumper.pm
+END
+ProfileSubs.pm
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/DBI/ProfileSubs.pm
+END
+PurePerl.pm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/DBI/PurePerl.pm
+END
+Profile.pm
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/DBI/Profile.pm
+END
+W32ODBC.pm
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/DBI/W32ODBC.pm
+END

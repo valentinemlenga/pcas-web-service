@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/webservices/!svn/ver/5/trunk/local/lib/perl5/XML/SAX
+END
+ParserFactory.pm
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/webservices/!svn/ver/5/trunk/local/lib/perl5/XML/SAX/ParserFactory.pm
+END
+ParserDetails.ini
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/webservices/!svn/ver/5/trunk/local/lib/perl5/XML/SAX/ParserDetails.ini
+END
+Base.pm
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/webservices/!svn/ver/5/trunk/local/lib/perl5/XML/SAX/Base.pm
+END
+Exception.pm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/webservices/!svn/ver/5/trunk/local/lib/perl5/XML/SAX/Exception.pm
+END
+PurePerl.pm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/webservices/!svn/ver/5/trunk/local/lib/perl5/XML/SAX/PurePerl.pm
+END
+Expat.pm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/webservices/!svn/ver/5/trunk/local/lib/perl5/XML/SAX/Expat.pm
+END
+Intro.pod
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/webservices/!svn/ver/5/trunk/local/lib/perl5/XML/SAX/Intro.pod
+END
+placeholder.pl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/webservices/!svn/ver/5/trunk/local/lib/perl5/XML/SAX/placeholder.pl
+END
+DocumentLocator.pm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/webservices/!svn/ver/5/trunk/local/lib/perl5/XML/SAX/DocumentLocator.pm
+END

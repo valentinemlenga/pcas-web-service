@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/MooseX/MethodAttributes
+END
+Inheritable.pm
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/MooseX/MethodAttributes/Inheritable.pm
+END
+Role.pm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/MooseX/MethodAttributes/Role.pm
+END

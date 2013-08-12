@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/TAP/Parser/SourceHandler
+END
+Handle.pm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/TAP/Parser/SourceHandler/Handle.pm
+END
+RawTAP.pm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/TAP/Parser/SourceHandler/RawTAP.pm
+END
+File.pm
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/TAP/Parser/SourceHandler/File.pm
+END
+Executable.pm
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/TAP/Parser/SourceHandler/Executable.pm
+END
+Perl.pm
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/TAP/Parser/SourceHandler/Perl.pm
+END

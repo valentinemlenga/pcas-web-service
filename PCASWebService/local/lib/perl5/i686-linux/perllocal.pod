@@ -1,0 +1,2882 @@
+=head2 Thu Jan 13 11:13:06 2011: C<Module> L<ExtUtils::MakeMaker|ExtUtils::MakeMaker>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 6.56>
+
+=item *
+
+C<EXE_FILES: bin/instmodsh>
+
+=back
+
+=head2 Thu Jan 13 11:13:08 2011: C<Module> L<ExtUtils::Install|ExtUtils::Install>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.54>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jan 13 11:13:11 2011: C<Module> L<Cwd|Cwd>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 3.33>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jan 13 11:13:12 2011: C<Module> L<Locale::Maketext::Simple|Locale::Maketext::Simple>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.21>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jan 13 11:13:12 2011: C<Module> L<Module::Load|Module::Load>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.18>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jan 13 11:13:15 2011: C<Module> L<version|version>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.88>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jan 13 11:13:17 2011: C<Module> L<Module::CoreList|Module::CoreList>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.42>
+
+=item *
+
+C<EXE_FILES: corelist>
+
+=back
+
+=head2 Thu Jan 13 11:13:18 2011: C<Module> L<Params::Check|Params::Check>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.28>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jan 13 11:13:19 2011: C<Module> L<Module::Load::Conditional|Module::Load::Conditional>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.40>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jan 13 11:13:22 2011: C<Module> L<IPC::Cmd|IPC::Cmd>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.68>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jan 13 11:13:23 2011: C<Module> L<ExtUtils::CBuilder|ExtUtils::CBuilder>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.2802>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jan 13 11:13:37 2011: C<Module> L<Test::Harness|Test::Harness>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 3.22>
+
+=item *
+
+C<EXE_FILES: bin/prove>
+
+=back
+
+=head2 Thu Jan 13 11:13:39 2011: C<Module> L<ExtUtils::ParseXS|ExtUtils::ParseXS>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.2206>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jan 13 11:13:49 2011: C<Module> L<Test::Simple|Test::Simple>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.96>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jan 13 11:14:08 2011: C<Module> L<File::Temp|File::Temp>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.22>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jan 13 11:14:55 2011: C<Module> L<CPAN|CPAN>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.9402>
+
+=item *
+
+C<EXE_FILES: scripts/cpan>
+
+=back
+
+=head2 Thu Jan 13 11:16:23 2011: C<Module> L<local::lib|local::lib>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.008001>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jan 13 11:19:32 2011: C<Module> L<Test::use::ok|Test::use::ok>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.02>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jan 13 11:19:33 2011: C<Module> L<Tie::ToObject|Tie::ToObject>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.03>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jan 13 11:19:37 2011: C<Module> L<List::Util|List::Util>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.23>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jan 13 11:19:37 2011: C<Module> L<Task::Weaken|Task::Weaken>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.03>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jan 13 11:19:41 2011: C<Module> L<Test::Requires|Test::Requires>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.06>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jan 13 11:19:43 2011: C<Module> L<Try::Tiny|Try::Tiny>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.09>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jan 13 11:19:44 2011: C<Module> L<Exporter|Exporter>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 5.63>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jan 13 11:19:45 2011: C<Module> L<Test::Fatal|Test::Fatal>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.003>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jan 13 11:19:48 2011: C<Module> L<Params::Util|Params::Util>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.03>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jan 13 11:19:51 2011: C<Module> L<List::MoreUtils|List::MoreUtils>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.30>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jan 13 11:19:52 2011: C<Module> L<Sub::Install|Sub::Install>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.925>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jan 13 11:19:53 2011: C<Module> L<Package::DeprecationManager|Package::DeprecationManager>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.10>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jan 13 11:20:00 2011: C<Module> L<Class::C3|Class::C3>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.23>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jan 13 11:20:00 2011: C<Module> L<MRO::Compat|MRO::Compat>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.11>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jan 13 11:20:04 2011: C<Module> L<Package::Stash::XS|Package::Stash::XS>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.20>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jan 13 11:20:06 2011: C<Module> L<Sub::Name|Sub::Name>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.05>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jan 13 11:20:08 2011: C<Module> L<Data::OptList|Data::OptList>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.106>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jan 13 11:20:10 2011: C<Module> L<Scope::Guard|Scope::Guard>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.20>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jan 13 11:20:12 2011: C<Module> L<Sub::Exporter|Sub::Exporter>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.982>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jan 13 11:20:13 2011: C<Module> L<Devel::GlobalDestruction|Devel::GlobalDestruction>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.03>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jan 13 11:20:35 2011: C<Module> L<Sub::Identify|Sub::Identify>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.04>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jan 13 11:20:39 2011: C<Module> L<Variable::Magic|Variable::Magic>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.45>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jan 13 11:20:39 2011: C<Module> L<B::Hooks::EndOfScope|B::Hooks::EndOfScope>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.09>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jan 13 11:20:45 2011: C<Module> L<Module::Pluggable|Module::Pluggable>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 3.9>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jan 13 11:20:46 2011: C<Module> L<Config::Any|Config::Any>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.20>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jan 13 11:20:58 2011: C<Module> L<Carp::Clan|Carp::Clan>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 6.04>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jan 13 11:21:11 2011: C<Module> L<Compress::Raw::Zlib|Compress::Raw::Zlib>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.033>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jan 13 11:21:13 2011: C<Module> L<HTML::Tagset|HTML::Tagset>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 3.20>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jan 13 11:21:17 2011: C<Module> L<HTML::Parser|HTML::Parser>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 3.68>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jan 13 11:21:23 2011: C<Module> L<Compress::Raw::Bzip2|Compress::Raw::Bzip2>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.033>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jan 13 11:22:27 2011: C<Module> L<IO::Compress|IO::Compress>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.033>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jan 13 11:22:29 2011: C<Module> L<URI|URI>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.56>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jan 13 11:22:56 2011: C<Module> L<Data::Dump|Data::Dump>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.19>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jan 13 11:23:02 2011: C<Module> L<Test::Tester|Test::Tester>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.107>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jan 13 11:23:03 2011: C<Module> L<Test::NoWarnings|Test::NoWarnings>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.02>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jan 13 11:23:06 2011: C<Module> L<Test::Deep|Test::Deep>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.108>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jan 13 11:23:29 2011: C<Module> L<IO|IO>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.25>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jan 13 11:23:33 2011: C<Module> L<IO::Stringy|IO::Stringy>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.110>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jan 13 11:23:48 2011: C<Module> L<String::RewritePrefix|String::RewritePrefix>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.006>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jan 13 11:23:50 2011: C<Module> L<Tree::Simple::VisitorFactory|Tree::Simple::VisitorFactory>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.10>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jan 13 11:23:52 2011: C<Module> L<Getopt::Long|Getopt::Long>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.38>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jan 13 11:23:55 2011: C<Module> L<Attribute::Handlers|Attribute::Handlers>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.88>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jan 13 11:23:59 2011: C<Module> L<Getopt::Long::Descriptive|Getopt::Long::Descriptive>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.088>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jan 13 11:24:01 2011: C<Module> L<Tree::DAG_Node|Tree::DAG_Node>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.06>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jan 13 11:24:13 2011: C<Module> L<Test::Warn|Test::Warn>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.22>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jan 13 11:24:15 2011: C<Module> L<Class::Data::Inheritable|Class::Data::Inheritable>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.08>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jan 13 11:24:20 2011: C<Module> L<Class::Accessor|Class::Accessor>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.34>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jan 13 11:24:23 2011: C<Module> L<Class::C3::Adopt::NEXT|Class::C3::Adopt::NEXT>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.13>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jan 13 11:24:24 2011: C<Module> L<Text::SimpleTable|Text::SimpleTable>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.03>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jan 13 11:24:36 2011: C<Module> L<PadWalker|PadWalker>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.92>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jan 13 11:24:37 2011: C<Module> L<Devel::Caller|Devel::Caller>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.05>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jan 13 11:24:41 2011: C<Module> L<Class::Inspector|Class::Inspector>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.24>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jan 13 11:24:42 2011: C<Module> L<File::ShareDir|File::ShareDir>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.02>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jan 13 11:24:43 2011: C<Module> L<Config::General|Config::General>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.50>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jan 13 11:24:46 2011: C<Module> L<MIME::Types|MIME::Types>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.31>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jan 13 11:24:50 2011: C<Module> L<AppConfig|AppConfig>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.66>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jan 13 11:25:13 2011: C<Module> L<Template|Template>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.22>
+
+=item *
+
+C<EXE_FILES: bin/tpage bin/ttree>
+
+=back
+
+=head2 Thu Jan 13 11:25:15 2011: C<Module> L<File::Remove|File::Remove>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.42>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jan 13 11:25:17 2011: C<Module> L<IO::Zlib|IO::Zlib>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.10>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jan 13 11:25:18 2011: C<Module> L<Package::Constants|Package::Constants>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.02>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jan 13 11:25:20 2011: C<Module> L<Archive::Tar|Archive::Tar>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.76>
+
+=item *
+
+C<EXE_FILES: bin/ptar bin/ptardiff bin/ptargrep>
+
+=back
+
+=head2 Thu Jan 13 11:25:29 2011: C<Module> L<Devel::PPPort|Devel::PPPort>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 3.19>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jan 13 11:25:31 2011: C<Module> L<PAR::Dist|PAR::Dist>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.47>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jan 13 11:25:53 2011: C<Module> L<Module::ScanDeps|Module::ScanDeps>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.98>
+
+=item *
+
+C<EXE_FILES: script/scandeps.pl>
+
+=back
+
+=head2 Thu Jan 13 11:25:55 2011: C<Module> L<Parse::CPAN::Meta|Parse::CPAN::Meta>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.40>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jan 13 11:25:57 2011: C<Module> L<YAML::Tiny|YAML::Tiny>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.46>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jan 13 11:25:59 2011: C<Module> L<common::sense|common::sense>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 3.3>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jan 13 11:26:05 2011: C<Module> L<JSON::XS|JSON::XS>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.3>
+
+=item *
+
+C<EXE_FILES: bin/json_xs>
+
+=back
+
+=head2 Thu Jan 13 11:26:11 2011: C<Module> L<JSON|JSON>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.50>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jan 13 11:26:45 2011: C<Module> L<File::Copy::Recursive|File::Copy::Recursive>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.38>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jan 13 11:33:23 2011: C<Module> L<OLE::Storage_Lite|OLE::Storage_Lite>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.19>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jan 13 11:33:29 2011: C<Module> L<Spreadsheet::ParseExcel|Spreadsheet::ParseExcel>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.58>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri Jan 14 10:38:05 2011: C<Module> L<YAML|YAML>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.72>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri Jan 14 10:39:05 2011: C<Module> L<Dist::CheckConflicts|Dist::CheckConflicts>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.02>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri Jan 14 10:39:07 2011: C<Module> L<Package::Stash|Package::Stash>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.23>
+
+=item *
+
+C<EXE_FILES: bin/package-stash-conflicts>
+
+=back
+
+=head2 Fri Jan 14 10:39:20 2011: C<Module> L<Class::MOP|Class::MOP>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.12>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri Jan 14 10:40:59 2011: C<Module> L<Moose|Moose>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.21>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri Jan 14 10:41:01 2011: C<Module> L<namespace::clean|namespace::clean>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.20>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri Jan 14 10:41:05 2011: C<Module> L<Data::Visitor|Data::Visitor>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.27>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri Jan 14 10:41:11 2011: C<Module> L<MooseX::Emulate::Class::Accessor::Fast|MooseX::Emulate::Class::Accessor::Fast>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.00903>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri Jan 14 10:41:17 2011: C<Module> L<MooseX::Types|MooseX::Types>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.25>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri Jan 14 10:41:19 2011: C<Module> L<namespace::autoclean|namespace::autoclean>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.11>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri Jan 14 10:41:23 2011: C<Module> L<MooseX::Role::WithOverloading|MooseX::Role::WithOverloading>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.09>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri Jan 14 10:42:00 2011: C<Module> L<MooseX::Getopt|MooseX::Getopt>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.33>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri Jan 14 10:42:03 2011: C<Module> L<MooseX::Types::Common|MooseX::Types::Common>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.001002>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri Jan 14 10:42:12 2011: C<Module> L<MooseX::MethodAttributes|MooseX::MethodAttributes>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.24>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri Jan 14 10:43:10 2011: C<Module> L<MooseX::SemiAffordanceAccessor|MooseX::SemiAffordanceAccessor>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.08>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri Jan 14 10:43:15 2011: C<Module> L<MooseX::Params::Validate|MooseX::Params::Validate>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.15>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri Jan 14 10:45:32 2011: C<Module> L<CPAN::DistnameInfo|CPAN::DistnameInfo>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.11>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri Jan 14 10:48:50 2011: C<Module> L<MIME::Base64|MIME::Base64>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 3.13>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri Jan 14 10:48:52 2011: C<Module> L<Digest::MD5|Digest::MD5>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.51>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri Jan 14 10:48:53 2011: C<Module> L<Net|Net>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.22>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri Jan 14 16:39:16 2011: C<Module> L<Acme::LOLCAT|Acme::LOLCAT>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.0.5>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri Jan 14 16:39:32 2011: C<Module> L<Carp::Assert|Carp::Assert>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.20>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri Jan 14 16:39:34 2011: C<Module> L<Carp::Assert::More|Carp::Assert::More>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.12>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri Jan 14 16:39:41 2011: C<Module> L<HTML::Tree|HTML::Tree>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 4.1>
+
+=item *
+
+C<EXE_FILES: htmltree>
+
+=back
+
+=head2 Fri Jan 14 16:39:55 2011: C<Module> L<HTTP::Server::Simple|HTTP::Server::Simple>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.43>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri Jan 14 16:40:21 2011: C<Module> L<WWW::Mechanize|WWW::Mechanize>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.66>
+
+=item *
+
+C<EXE_FILES: bin/mech-dump>
+
+=back
+
+=head2 Tue Jan 18 22:02:01 2011: C<Module> L<YAML::Syck|YAML::Syck>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.17>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Tue Jan 18 22:02:09 2011: C<Module> L<Digest::SHA|Digest::SHA>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 5.50>
+
+=item *
+
+C<EXE_FILES: shasum>
+
+=back
+
+=head2 Wed Jan 19 14:56:17 2011: C<Module> L<XML::NamespaceSupport|XML::NamespaceSupport>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.11>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Jan 19 14:56:20 2011: C<Module> L<XML::SAX|XML::SAX>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.96>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Jan 19 14:56:29 2011: C<Module> L<XML::Parser|XML::Parser>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.40>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Jan 19 14:56:29 2011: C<Module> L<XML::SAX::Expat|XML::SAX::Expat>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.40>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Jan 19 14:56:42 2011: C<Module> L<XML::Simple|XML::Simple>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.18>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Jan 19 15:07:28 2011: C<Module> L<Catalyst::Runtime|Catalyst::Runtime>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 5.80030>
+
+=item *
+
+C<EXE_FILES: script/catalyst.pl>
+
+=back
+
+=head2 Wed Jan 19 15:07:41 2011: C<Module> L<Catalyst::Action::REST|Catalyst::Action::REST>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.88>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 31 13:10:58 2011: C<Module> L<Catalyst::Engine::Apache|Catalyst::Engine::Apache>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.16>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 31 22:09:26 2011: C<Module> L<Catalyst::Plugin::Static::Simple|Catalyst::Plugin::Static::Simple>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.29>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 31 22:11:50 2011: C<Module> L<Catalyst::Plugin::ConfigLoader|Catalyst::Plugin::ConfigLoader>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.30>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 31 22:22:31 2011: C<Module> L<DBI|DBI>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.616>
+
+=item *
+
+C<EXE_FILES: dbiproxy dbiprof dbilogstrip>
+
+=back
+
+=head2 Mon Jan 31 22:22:32 2011: C<Module> L<Catalyst::Model::DBI|Catalyst::Model::DBI>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.28>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 31 22:24:40 2011: C<Module> L<Catalyst::Action::RenderView|Catalyst::Action::RenderView>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.16>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 31 23:42:14 2011: C<Module> L<DBD::ODBC|DBD::ODBC>
+
+=over 4
+
+=item *
+
+C<installed into: /home/sam/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.27>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+

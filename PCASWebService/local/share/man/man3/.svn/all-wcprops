@@ -1,0 +1,527 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/webservices/!svn/ver/9/trunk/local/share/man/man3
+END
+Apache2::CmdParms.3
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/webservices/!svn/ver/9/trunk/local/share/man/man3/Apache2::CmdParms.3
+END
+APR::BucketAlloc.3
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/webservices/!svn/ver/9/trunk/local/share/man/man3/APR::BucketAlloc.3
+END
+ModPerl::Registry.3
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/webservices/!svn/ver/9/trunk/local/share/man/man3/ModPerl::Registry.3
+END
+APR::Error.3
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/webservices/!svn/ver/9/trunk/local/share/man/man3/APR::Error.3
+END
+APR::ThreadRWLock.3
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/webservices/!svn/ver/9/trunk/local/share/man/man3/APR::ThreadRWLock.3
+END
+APR::PerlIO.3
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/webservices/!svn/ver/9/trunk/local/share/man/man3/APR::PerlIO.3
+END
+ModPerl::MethodLookup.3
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/webservices/!svn/ver/9/trunk/local/share/man/man3/ModPerl::MethodLookup.3
+END
+Apache2::PerlSections.3
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/webservices/!svn/ver/9/trunk/local/share/man/man3/Apache2::PerlSections.3
+END
+APR.3
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/webservices/!svn/ver/9/trunk/local/share/man/man3/APR.3
+END
+ModPerl::RegistryCooker.3
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/webservices/!svn/ver/9/trunk/local/share/man/man3/ModPerl::RegistryCooker.3
+END
+mod_perl2.3
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/webservices/!svn/ver/9/trunk/local/share/man/man3/mod_perl2.3
+END
+Apache::TestMB.3
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/webservices/!svn/ver/9/trunk/local/share/man/man3/Apache::TestMB.3
+END
+APR::URI.3
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/webservices/!svn/ver/9/trunk/local/share/man/man3/APR::URI.3
+END
+Apache2::FilterRec.3
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/webservices/!svn/ver/9/trunk/local/share/man/man3/Apache2::FilterRec.3
+END
+ModPerl::PerlRunPrefork.3
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/webservices/!svn/ver/9/trunk/local/share/man/man3/ModPerl::PerlRunPrefork.3
+END
+Apache2::RequestIO.3
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/webservices/!svn/ver/9/trunk/local/share/man/man3/Apache2::RequestIO.3
+END
+Apache::TestServer.3
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/webservices/!svn/ver/9/trunk/local/share/man/man3/Apache::TestServer.3
+END
+Apache2::Module.3
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/webservices/!svn/ver/9/trunk/local/share/man/man3/Apache2::Module.3
+END
+Apache2::Filter.3
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/webservices/!svn/ver/9/trunk/local/share/man/man3/Apache2::Filter.3
+END
+APR::String.3
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/webservices/!svn/ver/9/trunk/local/share/man/man3/APR::String.3
+END
+Apache2::Const.3
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/webservices/!svn/ver/9/trunk/local/share/man/man3/Apache2::Const.3
+END
+ModPerl::BuildMM.3
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/webservices/!svn/ver/9/trunk/local/share/man/man3/ModPerl::BuildMM.3
+END
+APR::Util.3
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/webservices/!svn/ver/9/trunk/local/share/man/man3/APR::Util.3
+END
+Apache::TestSmoke.3
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/webservices/!svn/ver/9/trunk/local/share/man/man3/Apache::TestSmoke.3
+END
+Apache::Test.3
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/webservices/!svn/ver/9/trunk/local/share/man/man3/Apache::Test.3
+END
+ModPerl::RegistryLoader.3
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/webservices/!svn/ver/9/trunk/local/share/man/man3/ModPerl::RegistryLoader.3
+END
+ModPerl::Global.3
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/webservices/!svn/ver/9/trunk/local/share/man/man3/ModPerl::Global.3
+END
+Apache2::ServerRec.3
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/webservices/!svn/ver/9/trunk/local/share/man/man3/Apache2::ServerRec.3
+END
+ModPerl::RegistryPrefork.3
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/webservices/!svn/ver/9/trunk/local/share/man/man3/ModPerl::RegistryPrefork.3
+END
+APR::Status.3
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/webservices/!svn/ver/9/trunk/local/share/man/man3/APR::Status.3
+END
+APR::Const.3
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/webservices/!svn/ver/9/trunk/local/share/man/man3/APR::Const.3
+END
+Apache::TestRequest.3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/webservices/!svn/ver/9/trunk/local/share/man/man3/Apache::TestRequest.3
+END
+APR::Table.3
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/webservices/!svn/ver/9/trunk/local/share/man/man3/APR::Table.3
+END
+ModPerl::MM.3
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/webservices/!svn/ver/9/trunk/local/share/man/man3/ModPerl::MM.3
+END
+Apache2::SizeLimit.3
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/webservices/!svn/ver/9/trunk/local/share/man/man3/Apache2::SizeLimit.3
+END
+Apache2::Directive.3
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/webservices/!svn/ver/9/trunk/local/share/man/man3/Apache2::Directive.3
+END
+Apache2::RequestRec.3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/webservices/!svn/ver/9/trunk/local/share/man/man3/Apache2::RequestRec.3
+END
+Apache::TestConfig.3
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/webservices/!svn/ver/9/trunk/local/share/man/man3/Apache::TestConfig.3
+END
+Apache2::compat.3
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/webservices/!svn/ver/9/trunk/local/share/man/man3/Apache2::compat.3
+END
+Apache2::Status.3
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/webservices/!svn/ver/9/trunk/local/share/man/man3/Apache2::Status.3
+END
+Apache2::HookRun.3
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/webservices/!svn/ver/9/trunk/local/share/man/man3/Apache2::HookRun.3
+END
+APR::UUID.3
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/webservices/!svn/ver/9/trunk/local/share/man/man3/APR::UUID.3
+END
+Apache2::RequestUtil.3
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/webservices/!svn/ver/9/trunk/local/share/man/man3/Apache2::RequestUtil.3
+END
+Apache2::Resource.3
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/webservices/!svn/ver/9/trunk/local/share/man/man3/Apache2::Resource.3
+END
+Apache2::SubProcess.3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/webservices/!svn/ver/9/trunk/local/share/man/man3/Apache2::SubProcess.3
+END
+APR::Pool.3
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/webservices/!svn/ver/9/trunk/local/share/man/man3/APR::Pool.3
+END
+Apache::TestUtil.3
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/webservices/!svn/ver/9/trunk/local/share/man/man3/Apache::TestUtil.3
+END
+APR::Date.3
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/webservices/!svn/ver/9/trunk/local/share/man/man3/APR::Date.3
+END
+Apache2::Response.3
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/webservices/!svn/ver/9/trunk/local/share/man/man3/Apache2::Response.3
+END
+APR::BucketType.3
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/webservices/!svn/ver/9/trunk/local/share/man/man3/APR::BucketType.3
+END
+Apache2::URI.3
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/webservices/!svn/ver/9/trunk/local/share/man/man3/Apache2::URI.3
+END
+Apache2::Connection.3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/webservices/!svn/ver/9/trunk/local/share/man/man3/Apache2::Connection.3
+END
+APR::OS.3
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/webservices/!svn/ver/9/trunk/local/share/man/man3/APR::OS.3
+END
+APR::Base64.3
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/webservices/!svn/ver/9/trunk/local/share/man/man3/APR::Base64.3
+END
+Apache::TestRunPerl.3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/webservices/!svn/ver/9/trunk/local/share/man/man3/Apache::TestRunPerl.3
+END
+APR::Socket.3
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/webservices/!svn/ver/9/trunk/local/share/man/man3/APR::Socket.3
+END
+APR::IpSubnet.3
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/webservices/!svn/ver/9/trunk/local/share/man/man3/APR::IpSubnet.3
+END
+ModPerl::Code.3
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/webservices/!svn/ver/9/trunk/local/share/man/man3/ModPerl::Code.3
+END
+ModPerl::RegistryBB.3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/webservices/!svn/ver/9/trunk/local/share/man/man3/ModPerl::RegistryBB.3
+END
+ModPerl::Util.3
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/webservices/!svn/ver/9/trunk/local/share/man/man3/ModPerl::Util.3
+END
+Apache2::Command.3
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/webservices/!svn/ver/9/trunk/local/share/man/man3/Apache2::Command.3
+END
+Apache2::Log.3
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/webservices/!svn/ver/9/trunk/local/share/man/man3/Apache2::Log.3
+END
+ModPerl::Const.3
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/webservices/!svn/ver/9/trunk/local/share/man/man3/ModPerl::Const.3
+END
+ModPerl::CScan.3
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/webservices/!svn/ver/9/trunk/local/share/man/man3/ModPerl::CScan.3
+END
+ModPerl::PerlRun.3
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/webservices/!svn/ver/9/trunk/local/share/man/man3/ModPerl::PerlRun.3
+END
+Apache::TestMM.3
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/webservices/!svn/ver/9/trunk/local/share/man/man3/Apache::TestMM.3
+END
+Apache::TestReport.3
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/webservices/!svn/ver/9/trunk/local/share/man/man3/Apache::TestReport.3
+END
+APR::Bucket.3
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/webservices/!svn/ver/9/trunk/local/share/man/man3/APR::Bucket.3
+END
+Apache2::ConnectionUtil.3
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/webservices/!svn/ver/9/trunk/local/share/man/man3/Apache2::ConnectionUtil.3
+END
+Apache2::Build.3
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/webservices/!svn/ver/9/trunk/local/share/man/man3/Apache2::Build.3
+END
+Apache2::SubRequest.3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/webservices/!svn/ver/9/trunk/local/share/man/man3/Apache2::SubRequest.3
+END
+Apache2::ServerUtil.3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/webservices/!svn/ver/9/trunk/local/share/man/man3/Apache2::ServerUtil.3
+END
+APR::SockAddr.3
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/webservices/!svn/ver/9/trunk/local/share/man/man3/APR::SockAddr.3
+END
+APR::ThreadMutex.3
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/webservices/!svn/ver/9/trunk/local/share/man/man3/APR::ThreadMutex.3
+END
+Bundle::Apache2.3
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/webservices/!svn/ver/9/trunk/local/share/man/man3/Bundle::Apache2.3
+END
+APR::Brigade.3
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/webservices/!svn/ver/9/trunk/local/share/man/man3/APR::Brigade.3
+END
+Apache::TestTrace.3
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/webservices/!svn/ver/9/trunk/local/share/man/man3/Apache::TestTrace.3
+END
+Apache2::Util.3
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/webservices/!svn/ver/9/trunk/local/share/man/man3/Apache2::Util.3
+END
+Apache2::Process.3
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/webservices/!svn/ver/9/trunk/local/share/man/man3/Apache2::Process.3
+END
+APR::Finfo.3
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/webservices/!svn/ver/9/trunk/local/share/man/man3/APR::Finfo.3
+END
+Apache::TestRun.3
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/webservices/!svn/ver/9/trunk/local/share/man/man3/Apache::TestRun.3
+END
+Apache2::porting.3
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/webservices/!svn/ver/9/trunk/local/share/man/man3/Apache2::porting.3
+END
+Bundle::ApacheTest.3
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/webservices/!svn/ver/9/trunk/local/share/man/man3/Bundle::ApacheTest.3
+END
+Apache2::MPM.3
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/webservices/!svn/ver/9/trunk/local/share/man/man3/Apache2::MPM.3
+END
+Apache::TestRunPHP.3
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/webservices/!svn/ver/9/trunk/local/share/man/man3/Apache::TestRunPHP.3
+END
+Apache2::Access.3
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/webservices/!svn/ver/9/trunk/local/share/man/man3/Apache2::Access.3
+END
+ModPerl::Config.3
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/webservices/!svn/ver/9/trunk/local/share/man/man3/ModPerl::Config.3
+END

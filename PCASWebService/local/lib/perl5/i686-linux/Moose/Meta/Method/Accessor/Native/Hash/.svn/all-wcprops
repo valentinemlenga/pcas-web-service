@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/Moose/Meta/Method/Accessor/Native/Hash
+END
+clear.pm
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/Moose/Meta/Method/Accessor/Native/Hash/clear.pm
+END
+count.pm
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/Moose/Meta/Method/Accessor/Native/Hash/count.pm
+END
+is_empty.pm
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/Moose/Meta/Method/Accessor/Native/Hash/is_empty.pm
+END
+keys.pm
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/Moose/Meta/Method/Accessor/Native/Hash/keys.pm
+END
+set.pm
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/Moose/Meta/Method/Accessor/Native/Hash/set.pm
+END
+Writer.pm
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/Moose/Meta/Method/Accessor/Native/Hash/Writer.pm
+END
+elements.pm
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/Moose/Meta/Method/Accessor/Native/Hash/elements.pm
+END
+defined.pm
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/Moose/Meta/Method/Accessor/Native/Hash/defined.pm
+END
+exists.pm
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/Moose/Meta/Method/Accessor/Native/Hash/exists.pm
+END
+get.pm
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/Moose/Meta/Method/Accessor/Native/Hash/get.pm
+END
+values.pm
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/Moose/Meta/Method/Accessor/Native/Hash/values.pm
+END
+kv.pm
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/Moose/Meta/Method/Accessor/Native/Hash/kv.pm
+END
+accessor.pm
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/Moose/Meta/Method/Accessor/Native/Hash/accessor.pm
+END
+delete.pm
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/Moose/Meta/Method/Accessor/Native/Hash/delete.pm
+END

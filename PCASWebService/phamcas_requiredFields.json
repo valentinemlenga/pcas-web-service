@@ -1,0 +1,35 @@
+{
+    "schools": [
+        {
+            "id": 0,
+            "schoolName": "College of Health Sciences",
+            "schoolDescription": "School of Pharmacy",
+            "schoolPage": "http://schoolpages.pharmcas.org/publishedsurvey/404",
+            "state": "Pennslyvania",
+            "generalInformation": {
+                "participating": true,
+                "pharmcasDeadline": "2013-03-04",
+                "institutionType": "Private",
+                "accreditationStatus": "Candidate",
+                "dualDegrees": true
+            },
+            "supplementalRequirements": {
+                "required": false,
+                "deadline": "2013-08-18",
+                "fee": "$ 74"
+            },
+            "earlyDecisionProgram": {
+                "participating": true
+            },
+            "tests": {
+                "PCAT": true,
+                "TOEFL": false
+            },
+            "residency": {
+                "proofOfStateResidencyRequired": true,
+                "USResidencyRequired": true,
+                "foreignCitizensConsidered": true
+            }
+        }
+    ]
+}

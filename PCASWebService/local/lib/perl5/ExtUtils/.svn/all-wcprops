@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/ExtUtils
+END
+MM_Win95.pm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/ExtUtils/MM_Win95.pm
+END
+Mkbootstrap.pm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/ExtUtils/Mkbootstrap.pm
+END
+Install.pm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/ExtUtils/Install.pm
+END
+xsubpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/ExtUtils/xsubpp
+END
+MM.pm
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/ExtUtils/MM.pm
+END
+Mksymlists.pm
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/ExtUtils/Mksymlists.pm
+END
+Installed.pm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/ExtUtils/Installed.pm
+END
+MM_Any.pm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/ExtUtils/MM_Any.pm
+END
+MM_BeOS.pm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/ExtUtils/MM_BeOS.pm
+END
+MY.pm
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/ExtUtils/MY.pm
+END
+MM_Win32.pm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/ExtUtils/MM_Win32.pm
+END
+MM_OS2.pm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/ExtUtils/MM_OS2.pm
+END
+MANIFEST.SKIP
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/ExtUtils/MANIFEST.SKIP
+END
+MM_NW5.pm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/ExtUtils/MM_NW5.pm
+END
+testlib.pm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/ExtUtils/testlib.pm
+END
+Manifest.pm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/ExtUtils/Manifest.pm
+END
+MM_AIX.pm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/ExtUtils/MM_AIX.pm
+END
+Packlist.pm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/ExtUtils/Packlist.pm
+END
+MM_UWIN.pm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/ExtUtils/MM_UWIN.pm
+END
+MM_Unix.pm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/ExtUtils/MM_Unix.pm
+END
+MM_Darwin.pm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/ExtUtils/MM_Darwin.pm
+END
+Command.pm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/ExtUtils/Command.pm
+END
+MM_DOS.pm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/ExtUtils/MM_DOS.pm
+END
+ParseXS.pm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/ExtUtils/ParseXS.pm
+END
+CBuilder.pm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/ExtUtils/CBuilder.pm
+END
+MM_Cygwin.pm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/ExtUtils/MM_Cygwin.pm
+END
+MM_MacOS.pm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/ExtUtils/MM_MacOS.pm
+END
+MakeMaker.pm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/ExtUtils/MakeMaker.pm
+END
+MM_VMS.pm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/ExtUtils/MM_VMS.pm
+END
+MM_QNX.pm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/ExtUtils/MM_QNX.pm
+END
+MM_VOS.pm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/ExtUtils/MM_VOS.pm
+END
+Liblist.pm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/ExtUtils/Liblist.pm
+END

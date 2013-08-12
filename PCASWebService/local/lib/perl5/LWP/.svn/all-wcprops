@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/webservices/!svn/ver/7/trunk/local/lib/perl5/LWP
+END
+MediaTypes.pm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/webservices/!svn/ver/5/trunk/local/lib/perl5/LWP/MediaTypes.pm
+END
+Debug.pm
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/webservices/!svn/ver/5/trunk/local/lib/perl5/LWP/Debug.pm
+END
+DebugFile.pm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/webservices/!svn/ver/5/trunk/local/lib/perl5/LWP/DebugFile.pm
+END
+media.types
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/webservices/!svn/ver/5/trunk/local/lib/perl5/LWP/media.types
+END
+Simple.pm
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/webservices/!svn/ver/5/trunk/local/lib/perl5/LWP/Simple.pm
+END
+RobotUA.pm
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/webservices/!svn/ver/5/trunk/local/lib/perl5/LWP/RobotUA.pm
+END
+MemberMixin.pm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/webservices/!svn/ver/5/trunk/local/lib/perl5/LWP/MemberMixin.pm
+END
+UserAgent.pm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/webservices/!svn/ver/5/trunk/local/lib/perl5/LWP/UserAgent.pm
+END
+ConnCache.pm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/webservices/!svn/ver/5/trunk/local/lib/perl5/LWP/ConnCache.pm
+END
+Protocol.pm
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/webservices/!svn/ver/5/trunk/local/lib/perl5/LWP/Protocol.pm
+END

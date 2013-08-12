@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/ExtUtils/CBuilder/Platform/Windows
+END
+BCC.pm
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/ExtUtils/CBuilder/Platform/Windows/BCC.pm
+END
+MSVC.pm
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/ExtUtils/CBuilder/Platform/Windows/MSVC.pm
+END
+GCC.pm
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/ExtUtils/CBuilder/Platform/Windows/GCC.pm
+END

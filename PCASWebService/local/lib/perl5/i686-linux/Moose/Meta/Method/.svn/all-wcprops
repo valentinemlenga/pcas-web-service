@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/Moose/Meta/Method
+END
+Constructor.pm
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/Moose/Meta/Method/Constructor.pm
+END
+Meta.pm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/Moose/Meta/Method/Meta.pm
+END
+Augmented.pm
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/Moose/Meta/Method/Augmented.pm
+END
+Delegation.pm
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/Moose/Meta/Method/Delegation.pm
+END
+Destructor.pm
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/Moose/Meta/Method/Destructor.pm
+END
+Overridden.pm
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/Moose/Meta/Method/Overridden.pm
+END
+Accessor.pm
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/Moose/Meta/Method/Accessor.pm
+END

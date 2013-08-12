@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/Class/MOP
+END
+Instance.pm
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/Class/MOP/Instance.pm
+END
+Mixin.pm
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/Class/MOP/Mixin.pm
+END
+Class.pm
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/Class/MOP/Class.pm
+END
+Module.pm
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/Class/MOP/Module.pm
+END
+Object.pm
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/Class/MOP/Object.pm
+END
+Package.pm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/Class/MOP/Package.pm
+END
+Deprecated.pm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/Class/MOP/Deprecated.pm
+END
+Method.pm
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/Class/MOP/Method.pm
+END
+MiniTrait.pm
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/Class/MOP/MiniTrait.pm
+END
+Attribute.pm
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/Class/MOP/Attribute.pm
+END

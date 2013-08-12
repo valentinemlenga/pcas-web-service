@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/TAP/Formatter
+END
+Base.pm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/TAP/Formatter/Base.pm
+END
+Color.pm
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/TAP/Formatter/Color.pm
+END
+File.pm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/TAP/Formatter/File.pm
+END
+Console.pm
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/TAP/Formatter/Console.pm
+END
+Session.pm
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/TAP/Formatter/Session.pm
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/Moose/Meta
+END
+Instance.pm
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/Moose/Meta/Instance.pm
+END
+Class.pm
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/Moose/Meta/Class.pm
+END
+TypeConstraint.pm
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/Moose/Meta/TypeConstraint.pm
+END
+Method.pm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/Moose/Meta/Method.pm
+END
+Role.pm
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/Moose/Meta/Role.pm
+END
+Attribute.pm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/Moose/Meta/Attribute.pm
+END
+TypeCoercion.pm
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/Moose/Meta/TypeCoercion.pm
+END

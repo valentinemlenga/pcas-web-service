@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Test
+END
+Tester.pm
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Test/Tester.pm
+END
+Warn.pm
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Test/Warn.pm
+END
+Tutorial.pod
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Test/Tutorial.pod
+END
+HACKING.pod
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Test/HACKING.pod
+END
+Deep.pm
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Test/Deep.pm
+END
+Deep.pod
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Test/Deep.pod
+END
+NoWarnings.pm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Test/NoWarnings.pm
+END
+Builder.pm
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Test/Builder.pm
+END
+Fatal.pm
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Test/Fatal.pm
+END
+Simple.pm
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Test/Simple.pm
+END
+Exception.pm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Test/Exception.pm
+END
+Requires.pm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Test/Requires.pm
+END
+YAML.pm
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Test/YAML.pm
+END
+More.pm
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Test/More.pm
+END
+Harness.pm
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Test/Harness.pm
+END

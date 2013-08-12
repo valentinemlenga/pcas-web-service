@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/webservices/!svn/ver/5/trunk/local/lib/perl5/i686-linux
+END
+dbixs_rev.pl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/dbixs_rev.pl
+END
+oose.pm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/oose.pm
+END
+version.pm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/version.pm
+END
+IO.pm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/IO.pm
+END
+PadWalker.pm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/PadWalker.pm
+END
+Template.pm
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/Template.pm
+END
+version.pod
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/version.pod
+END
+metaclass.pm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/metaclass.pm
+END
+Cwd.pm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/Cwd.pm
+END
+DBI.pm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/DBI.pm
+END
+Moose.pm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/Moose.pm
+END
+perllocal.pod
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/webservices/!svn/ver/5/trunk/local/lib/perl5/i686-linux/perllocal.pod
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/webservices/!svn/ver/5/trunk/local/lib/perl5/Catalyst/Action
+END
+Serialize.pm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/webservices/!svn/ver/5/trunk/local/lib/perl5/Catalyst/Action/Serialize.pm
+END
+RenderView.pm
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/webservices/!svn/ver/5/trunk/local/lib/perl5/Catalyst/Action/RenderView.pm
+END
+REST.pm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/webservices/!svn/ver/5/trunk/local/lib/perl5/Catalyst/Action/REST.pm
+END
+Deserialize.pm
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/webservices/!svn/ver/5/trunk/local/lib/perl5/Catalyst/Action/Deserialize.pm
+END
+SerializeBase.pm
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/webservices/!svn/ver/5/trunk/local/lib/perl5/Catalyst/Action/SerializeBase.pm
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/webservices/!svn/ver/7/trunk/local/lib/perl5/LWP/Authen
+END
+Ntlm.pm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/webservices/!svn/ver/7/trunk/local/lib/perl5/LWP/Authen/Ntlm.pm
+END
+Digest.pm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/webservices/!svn/ver/7/trunk/local/lib/perl5/LWP/Authen/Digest.pm
+END
+Basic.pm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/webservices/!svn/ver/7/trunk/local/lib/perl5/LWP/Authen/Basic.pm
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repos/webservices/!svn/ver/9/trunk/local/lib/perl5
+END
+Catalyst.pm
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/webservices/!svn/ver/5/trunk/local/lib/perl5/Catalyst.pm
+END
+AppConfig.pm
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/AppConfig.pm
+END
+Exporter.pm
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Exporter.pm
+END
+ok.pm
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/ok.pm
+END
+JSON.pm
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/JSON.pm
+END
+newgetopt.pl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/newgetopt.pl
+END
+URI.pm
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/URI.pm
+END
+CPAN.pm
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/CPAN.pm
+END
+YAML.pm
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/YAML.pm
+END
+aliased.pm
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/aliased.pm
+END
+LWP.pm
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/webservices/!svn/ver/5/trunk/local/lib/perl5/LWP.pm
+END

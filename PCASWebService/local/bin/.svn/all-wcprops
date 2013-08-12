@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/repos/webservices/!svn/ver/9/trunk/local/bin
+END
+mech-dump
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/webservices/!svn/ver/4/trunk/local/bin/mech-dump
+END
+cpan
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/repos/webservices/!svn/ver/4/trunk/local/bin/cpan
+END
+dbilogstrip
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/webservices/!svn/ver/4/trunk/local/bin/dbilogstrip
+END
+json_xs
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/webservices/!svn/ver/4/trunk/local/bin/json_xs
+END
+ttree
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repos/webservices/!svn/ver/4/trunk/local/bin/ttree
+END
+ptargrep
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/webservices/!svn/ver/4/trunk/local/bin/ptargrep
+END
+htmltree
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/webservices/!svn/ver/4/trunk/local/bin/htmltree
+END
+corelist
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/webservices/!svn/ver/4/trunk/local/bin/corelist
+END
+dbiprof
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/webservices/!svn/ver/4/trunk/local/bin/dbiprof
+END
+prove
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repos/webservices/!svn/ver/4/trunk/local/bin/prove
+END
+mp2bug
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/webservices/!svn/ver/9/trunk/local/bin/mp2bug
+END
+package-stash-conflicts
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/webservices/!svn/ver/4/trunk/local/bin/package-stash-conflicts
+END
+config_data
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/webservices/!svn/ver/4/trunk/local/bin/config_data
+END
+catalyst.pl
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/webservices/!svn/ver/4/trunk/local/bin/catalyst.pl
+END
+ptardiff
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/webservices/!svn/ver/4/trunk/local/bin/ptardiff
+END
+dbiproxy
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/webservices/!svn/ver/4/trunk/local/bin/dbiproxy
+END
+shasum
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/webservices/!svn/ver/4/trunk/local/bin/shasum
+END
+tpage
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repos/webservices/!svn/ver/4/trunk/local/bin/tpage
+END
+urifind
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/webservices/!svn/ver/4/trunk/local/bin/urifind
+END
+ptar
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/repos/webservices/!svn/ver/4/trunk/local/bin/ptar
+END
+instmodsh
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/webservices/!svn/ver/4/trunk/local/bin/instmodsh
+END
+scandeps.pl
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/webservices/!svn/ver/4/trunk/local/bin/scandeps.pl
+END

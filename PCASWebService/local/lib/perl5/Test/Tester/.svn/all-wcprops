@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Test/Tester
+END
+Delegate.pm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Test/Tester/Delegate.pm
+END
+CaptureRunner.pm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Test/Tester/CaptureRunner.pm
+END
+Capture.pm
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Test/Tester/Capture.pm
+END

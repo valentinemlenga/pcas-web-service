@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/MooseX
+END
+Types.pm
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/MooseX/Types.pm
+END
+MethodAttributes.pm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/MooseX/MethodAttributes.pm
+END
+SemiAffordanceAccessor.pm
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/MooseX/SemiAffordanceAccessor.pm
+END
+Getopt.pm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/MooseX/Getopt.pm
+END

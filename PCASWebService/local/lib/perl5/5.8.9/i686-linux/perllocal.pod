@@ -1,0 +1,22 @@
+=head2 Tue Feb  1 10:58:19 2011: C<Module> L<mod_perl2|mod_perl2>
+
+=over 4
+
+=item *
+
+C<installed into: /usr/local/apache/webservices/WebService/local/lib/perl5/site_perl/5.8.9>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.0.4>
+
+=item *
+
+C<EXE_FILES: bin/mp2bug>
+
+=back
+

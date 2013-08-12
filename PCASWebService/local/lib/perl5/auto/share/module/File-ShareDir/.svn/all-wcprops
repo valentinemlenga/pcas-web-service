@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/auto/share/module/File-ShareDir
+END
+test_file.txt
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/auto/share/module/File-ShareDir/test_file.txt
+END

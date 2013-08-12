@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/IO
+END
+ScalarArray.pm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/IO/ScalarArray.pm
+END
+Scalar.pm
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/IO/Scalar.pm
+END
+Wrap.pm
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/IO/Wrap.pm
+END
+Lines.pm
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/IO/Lines.pm
+END
+InnerFile.pm
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/IO/InnerFile.pm
+END
+WrapTie.pm
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/IO/WrapTie.pm
+END
+AtomicFile.pm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/IO/AtomicFile.pm
+END
+Stringy.pm
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/IO/Stringy.pm
+END
+Zlib.pm
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/IO/Zlib.pm
+END

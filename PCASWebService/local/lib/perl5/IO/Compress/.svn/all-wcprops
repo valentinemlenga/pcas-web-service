@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/IO/Compress
+END
+Deflate.pm
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/IO/Compress/Deflate.pm
+END
+Bzip2.pm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/IO/Compress/Bzip2.pm
+END
+Gzip.pm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/IO/Compress/Gzip.pm
+END
+Base.pm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/IO/Compress/Base.pm
+END
+RawDeflate.pm
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/IO/Compress/RawDeflate.pm
+END
+Zip.pm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/IO/Compress/Zip.pm
+END

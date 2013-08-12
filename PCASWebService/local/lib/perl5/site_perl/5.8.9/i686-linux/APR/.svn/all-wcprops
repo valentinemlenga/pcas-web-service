@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/webservices/!svn/ver/9/trunk/local/lib/perl5/site_perl/5.8.9/i686-linux/APR
+END
+String.pm
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/webservices/!svn/ver/9/trunk/local/lib/perl5/site_perl/5.8.9/i686-linux/APR/String.pm
+END
+UUID.pm
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/webservices/!svn/ver/9/trunk/local/lib/perl5/site_perl/5.8.9/i686-linux/APR/UUID.pm
+END
+Pool.pm
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/webservices/!svn/ver/9/trunk/local/lib/perl5/site_perl/5.8.9/i686-linux/APR/Pool.pm
+END
+Date.pm
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/webservices/!svn/ver/9/trunk/local/lib/perl5/site_perl/5.8.9/i686-linux/APR/Date.pm
+END
+Bucket.pm
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/webservices/!svn/ver/9/trunk/local/lib/perl5/site_perl/5.8.9/i686-linux/APR/Bucket.pm
+END
+Util.pm
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/webservices/!svn/ver/9/trunk/local/lib/perl5/site_perl/5.8.9/i686-linux/APR/Util.pm
+END
+BucketType.pm
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/webservices/!svn/ver/9/trunk/local/lib/perl5/site_perl/5.8.9/i686-linux/APR/BucketType.pm
+END
+OS.pm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/webservices/!svn/ver/9/trunk/local/lib/perl5/site_perl/5.8.9/i686-linux/APR/OS.pm
+END
+XSLoader.pm
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/webservices/!svn/ver/9/trunk/local/lib/perl5/site_perl/5.8.9/i686-linux/APR/XSLoader.pm
+END
+Status.pm
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/webservices/!svn/ver/9/trunk/local/lib/perl5/site_perl/5.8.9/i686-linux/APR/Status.pm
+END
+Base64.pm
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/webservices/!svn/ver/9/trunk/local/lib/perl5/site_perl/5.8.9/i686-linux/APR/Base64.pm
+END
+Const.pm
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/webservices/!svn/ver/9/trunk/local/lib/perl5/site_perl/5.8.9/i686-linux/APR/Const.pm
+END
+Table.pm
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/webservices/!svn/ver/9/trunk/local/lib/perl5/site_perl/5.8.9/i686-linux/APR/Table.pm
+END
+Socket.pm
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/webservices/!svn/ver/9/trunk/local/lib/perl5/site_perl/5.8.9/i686-linux/APR/Socket.pm
+END
+BucketAlloc.pm
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/webservices/!svn/ver/9/trunk/local/lib/perl5/site_perl/5.8.9/i686-linux/APR/BucketAlloc.pm
+END
+IpSubnet.pm
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/webservices/!svn/ver/9/trunk/local/lib/perl5/site_perl/5.8.9/i686-linux/APR/IpSubnet.pm
+END
+Error.pm
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/webservices/!svn/ver/9/trunk/local/lib/perl5/site_perl/5.8.9/i686-linux/APR/Error.pm
+END
+ThreadRWLock.pm
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/webservices/!svn/ver/9/trunk/local/lib/perl5/site_perl/5.8.9/i686-linux/APR/ThreadRWLock.pm
+END
+SockAddr.pm
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/webservices/!svn/ver/9/trunk/local/lib/perl5/site_perl/5.8.9/i686-linux/APR/SockAddr.pm
+END
+PerlIO.pm
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/webservices/!svn/ver/9/trunk/local/lib/perl5/site_perl/5.8.9/i686-linux/APR/PerlIO.pm
+END
+ThreadMutex.pm
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/webservices/!svn/ver/9/trunk/local/lib/perl5/site_perl/5.8.9/i686-linux/APR/ThreadMutex.pm
+END
+Brigade.pm
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/webservices/!svn/ver/9/trunk/local/lib/perl5/site_perl/5.8.9/i686-linux/APR/Brigade.pm
+END
+URI.pm
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/webservices/!svn/ver/9/trunk/local/lib/perl5/site_perl/5.8.9/i686-linux/APR/URI.pm
+END
+Finfo.pm
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/webservices/!svn/ver/9/trunk/local/lib/perl5/site_perl/5.8.9/i686-linux/APR/Finfo.pm
+END

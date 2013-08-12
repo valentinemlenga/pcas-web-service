@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/Moose/Meta/Method/Accessor/Native/String
+END
+chomp.pm
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/Moose/Meta/Method/Accessor/Native/String/chomp.pm
+END
+clear.pm
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/Moose/Meta/Method/Accessor/Native/String/clear.pm
+END
+append.pm
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/Moose/Meta/Method/Accessor/Native/String/append.pm
+END
+chop.pm
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/Moose/Meta/Method/Accessor/Native/String/chop.pm
+END
+inc.pm
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/Moose/Meta/Method/Accessor/Native/String/inc.pm
+END
+replace.pm
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/Moose/Meta/Method/Accessor/Native/String/replace.pm
+END
+match.pm
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/Moose/Meta/Method/Accessor/Native/String/match.pm
+END
+prepend.pm
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/Moose/Meta/Method/Accessor/Native/String/prepend.pm
+END
+length.pm
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/Moose/Meta/Method/Accessor/Native/String/length.pm
+END
+substr.pm
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/Moose/Meta/Method/Accessor/Native/String/substr.pm
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/webservices/!svn/ver/7/trunk/local/lib/perl5/HTTP/Headers
+END
+Util.pm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/webservices/!svn/ver/7/trunk/local/lib/perl5/HTTP/Headers/Util.pm
+END
+ETag.pm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/webservices/!svn/ver/7/trunk/local/lib/perl5/HTTP/Headers/ETag.pm
+END
+Auth.pm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/webservices/!svn/ver/7/trunk/local/lib/perl5/HTTP/Headers/Auth.pm
+END

@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/webservices/!svn/ver/9/trunk/local/lib/perl5/site_perl/5.8.9/i686-linux/Apache2
+END
+ServerUtil.pm
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/webservices/!svn/ver/9/trunk/local/lib/perl5/site_perl/5.8.9/i686-linux/Apache2/ServerUtil.pm
+END
+Process.pm
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/webservices/!svn/ver/9/trunk/local/lib/perl5/site_perl/5.8.9/i686-linux/Apache2/Process.pm
+END
+Directive.pm
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/webservices/!svn/ver/9/trunk/local/lib/perl5/site_perl/5.8.9/i686-linux/Apache2/Directive.pm
+END
+FilterRec.pm
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/webservices/!svn/ver/9/trunk/local/lib/perl5/site_perl/5.8.9/i686-linux/Apache2/FilterRec.pm
+END
+Log.pm
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/webservices/!svn/ver/9/trunk/local/lib/perl5/site_perl/5.8.9/i686-linux/Apache2/Log.pm
+END
+XSLoader.pm
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/webservices/!svn/ver/9/trunk/local/lib/perl5/site_perl/5.8.9/i686-linux/Apache2/XSLoader.pm
+END
+RequestRec.pm
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/webservices/!svn/ver/9/trunk/local/lib/perl5/site_perl/5.8.9/i686-linux/Apache2/RequestRec.pm
+END
+porting.pm
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/webservices/!svn/ver/9/trunk/local/lib/perl5/site_perl/5.8.9/i686-linux/Apache2/porting.pm
+END
+Filter.pm
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/webservices/!svn/ver/9/trunk/local/lib/perl5/site_perl/5.8.9/i686-linux/Apache2/Filter.pm
+END
+Module.pm
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/webservices/!svn/ver/9/trunk/local/lib/perl5/site_perl/5.8.9/i686-linux/Apache2/Module.pm
+END
+RequestUtil.pm
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/webservices/!svn/ver/9/trunk/local/lib/perl5/site_perl/5.8.9/i686-linux/Apache2/RequestUtil.pm
+END
+SubProcess.pm
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/webservices/!svn/ver/9/trunk/local/lib/perl5/site_perl/5.8.9/i686-linux/Apache2/SubProcess.pm
+END
+SourceTables.pm
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/webservices/!svn/ver/9/trunk/local/lib/perl5/site_perl/5.8.9/i686-linux/Apache2/SourceTables.pm
+END
+ParseSource.pm
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/webservices/!svn/ver/9/trunk/local/lib/perl5/site_perl/5.8.9/i686-linux/Apache2/ParseSource.pm
+END
+ConnectionUtil.pm
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/webservices/!svn/ver/9/trunk/local/lib/perl5/site_perl/5.8.9/i686-linux/Apache2/ConnectionUtil.pm
+END
+Response.pm
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/webservices/!svn/ver/9/trunk/local/lib/perl5/site_perl/5.8.9/i686-linux/Apache2/Response.pm
+END
+Build.pm
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/webservices/!svn/ver/9/trunk/local/lib/perl5/site_perl/5.8.9/i686-linux/Apache2/Build.pm
+END
+CmdParms.pm
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/webservices/!svn/ver/9/trunk/local/lib/perl5/site_perl/5.8.9/i686-linux/Apache2/CmdParms.pm
+END
+SizeLimit.pm
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/webservices/!svn/ver/9/trunk/local/lib/perl5/site_perl/5.8.9/i686-linux/Apache2/SizeLimit.pm
+END
+PerlSections.pm
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/webservices/!svn/ver/9/trunk/local/lib/perl5/site_perl/5.8.9/i686-linux/Apache2/PerlSections.pm
+END
+Util.pm
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/webservices/!svn/ver/9/trunk/local/lib/perl5/site_perl/5.8.9/i686-linux/Apache2/Util.pm
+END
+Command.pm
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/webservices/!svn/ver/9/trunk/local/lib/perl5/site_perl/5.8.9/i686-linux/Apache2/Command.pm
+END
+RequestIO.pm
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/webservices/!svn/ver/9/trunk/local/lib/perl5/site_perl/5.8.9/i686-linux/Apache2/RequestIO.pm
+END
+Status.pm
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/webservices/!svn/ver/9/trunk/local/lib/perl5/site_perl/5.8.9/i686-linux/Apache2/Status.pm
+END
+compat.pm
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/webservices/!svn/ver/9/trunk/local/lib/perl5/site_perl/5.8.9/i686-linux/Apache2/compat.pm
+END
+BuildConfig.pm
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/webservices/!svn/ver/9/trunk/local/lib/perl5/site_perl/5.8.9/i686-linux/Apache2/BuildConfig.pm
+END
+HookRun.pm
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/webservices/!svn/ver/9/trunk/local/lib/perl5/site_perl/5.8.9/i686-linux/Apache2/HookRun.pm
+END
+Const.pm
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/webservices/!svn/ver/9/trunk/local/lib/perl5/site_perl/5.8.9/i686-linux/Apache2/Const.pm
+END
+Resource.pm
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/webservices/!svn/ver/9/trunk/local/lib/perl5/site_perl/5.8.9/i686-linux/Apache2/Resource.pm
+END
+MPM.pm
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/webservices/!svn/ver/9/trunk/local/lib/perl5/site_perl/5.8.9/i686-linux/Apache2/MPM.pm
+END
+URI.pm
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/webservices/!svn/ver/9/trunk/local/lib/perl5/site_perl/5.8.9/i686-linux/Apache2/URI.pm
+END
+Connection.pm
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/webservices/!svn/ver/9/trunk/local/lib/perl5/site_perl/5.8.9/i686-linux/Apache2/Connection.pm
+END
+ServerRec.pm
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/webservices/!svn/ver/9/trunk/local/lib/perl5/site_perl/5.8.9/i686-linux/Apache2/ServerRec.pm
+END
+Access.pm
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/webservices/!svn/ver/9/trunk/local/lib/perl5/site_perl/5.8.9/i686-linux/Apache2/Access.pm
+END
+SubRequest.pm
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/webservices/!svn/ver/9/trunk/local/lib/perl5/site_perl/5.8.9/i686-linux/Apache2/SubRequest.pm
+END

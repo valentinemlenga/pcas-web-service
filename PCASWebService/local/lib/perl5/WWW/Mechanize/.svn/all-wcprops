@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/webservices/!svn/ver/5/trunk/local/lib/perl5/WWW/Mechanize
+END
+Examples.pod
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/webservices/!svn/ver/5/trunk/local/lib/perl5/WWW/Mechanize/Examples.pod
+END
+Cookbook.pod
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/webservices/!svn/ver/5/trunk/local/lib/perl5/WWW/Mechanize/Cookbook.pod
+END
+FAQ.pod
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/webservices/!svn/ver/5/trunk/local/lib/perl5/WWW/Mechanize/FAQ.pod
+END
+Link.pm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/webservices/!svn/ver/5/trunk/local/lib/perl5/WWW/Mechanize/Link.pm
+END
+Image.pm
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/webservices/!svn/ver/5/trunk/local/lib/perl5/WWW/Mechanize/Image.pm
+END

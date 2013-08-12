@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/Moose/Meta/Role/Application
+END
+ToRole.pm
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/Moose/Meta/Role/Application/ToRole.pm
+END
+ToInstance.pm
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/Moose/Meta/Role/Application/ToInstance.pm
+END
+ToClass.pm
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/Moose/Meta/Role/Application/ToClass.pm
+END
+RoleSummation.pm
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/Moose/Meta/Role/Application/RoleSummation.pm
+END

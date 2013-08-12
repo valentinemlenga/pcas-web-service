@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/webservices/!svn/ver/7/trunk/local/lib/perl5/LWP/Protocol
+END
+gopher.pm
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/webservices/!svn/ver/7/trunk/local/lib/perl5/LWP/Protocol/gopher.pm
+END
+mailto.pm
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/webservices/!svn/ver/7/trunk/local/lib/perl5/LWP/Protocol/mailto.pm
+END
+GHTTP.pm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/webservices/!svn/ver/7/trunk/local/lib/perl5/LWP/Protocol/GHTTP.pm
+END
+data.pm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/webservices/!svn/ver/7/trunk/local/lib/perl5/LWP/Protocol/data.pm
+END
+ftp.pm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/webservices/!svn/ver/7/trunk/local/lib/perl5/LWP/Protocol/ftp.pm
+END
+loopback.pm
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/webservices/!svn/ver/7/trunk/local/lib/perl5/LWP/Protocol/loopback.pm
+END
+file.pm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/webservices/!svn/ver/7/trunk/local/lib/perl5/LWP/Protocol/file.pm
+END
+http.pm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/webservices/!svn/ver/7/trunk/local/lib/perl5/LWP/Protocol/http.pm
+END
+nntp.pm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/webservices/!svn/ver/7/trunk/local/lib/perl5/LWP/Protocol/nntp.pm
+END
+http10.pm
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/webservices/!svn/ver/7/trunk/local/lib/perl5/LWP/Protocol/http10.pm
+END
+cpan.pm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/webservices/!svn/ver/7/trunk/local/lib/perl5/LWP/Protocol/cpan.pm
+END
+https.pm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/webservices/!svn/ver/7/trunk/local/lib/perl5/LWP/Protocol/https.pm
+END
+nogo.pm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/webservices/!svn/ver/7/trunk/local/lib/perl5/LWP/Protocol/nogo.pm
+END
+https10.pm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/webservices/!svn/ver/7/trunk/local/lib/perl5/LWP/Protocol/https10.pm
+END

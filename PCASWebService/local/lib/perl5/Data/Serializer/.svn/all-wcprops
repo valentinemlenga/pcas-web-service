@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Data/Serializer
+END
+FreezeThaw.pm
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Data/Serializer/FreezeThaw.pm
+END
+Cookbook.pm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Data/Serializer/Cookbook.pm
+END
+JSON.pm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Data/Serializer/JSON.pm
+END
+Raw.pm
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Data/Serializer/Raw.pm
+END
+Storable.pm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Data/Serializer/Storable.pm
+END
+Bencode.pm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Data/Serializer/Bencode.pm
+END
+Persistent.pm
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Data/Serializer/Persistent.pm
+END
+YAML.pm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Data/Serializer/YAML.pm
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Spreadsheet/ParseExcel
+END
+Dump.pm
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Spreadsheet/ParseExcel/Dump.pm
+END
+Font.pm
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Spreadsheet/ParseExcel/Font.pm
+END
+Format.pm
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Spreadsheet/ParseExcel/Format.pm
+END
+FmtDefault.pm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Spreadsheet/ParseExcel/FmtDefault.pm
+END
+SaveParser.pm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Spreadsheet/ParseExcel/SaveParser.pm
+END
+Worksheet.pm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Spreadsheet/ParseExcel/Worksheet.pm
+END
+FmtUnicode.pm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Spreadsheet/ParseExcel/FmtUnicode.pm
+END
+Workbook.pm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Spreadsheet/ParseExcel/Workbook.pm
+END
+Cell.pm
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Spreadsheet/ParseExcel/Cell.pm
+END
+FmtJapan.pm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Spreadsheet/ParseExcel/FmtJapan.pm
+END
+FmtJapan2.pm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Spreadsheet/ParseExcel/FmtJapan2.pm
+END
+Utility.pm
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Spreadsheet/ParseExcel/Utility.pm
+END

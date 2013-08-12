@@ -1,0 +1,11 @@
+/home/sam/perl5/bin/ptar
+/home/sam/perl5/bin/ptardiff
+/home/sam/perl5/bin/ptargrep
+/home/sam/perl5/lib/perl5/Archive/Tar.pm
+/home/sam/perl5/lib/perl5/Archive/Tar/Constant.pm
+/home/sam/perl5/lib/perl5/Archive/Tar/File.pm
+/home/sam/perl5/man/man1/ptar.1
+/home/sam/perl5/man/man1/ptardiff.1
+/home/sam/perl5/man/man1/ptargrep.1
+/home/sam/perl5/man/man3/Archive::Tar.3
+/home/sam/perl5/man/man3/Archive::Tar::File.3

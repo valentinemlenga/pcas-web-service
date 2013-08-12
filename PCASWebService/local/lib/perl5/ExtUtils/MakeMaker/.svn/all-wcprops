@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/ExtUtils/MakeMaker
+END
+Config.pm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/ExtUtils/MakeMaker/Config.pm
+END
+Tutorial.pod
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/ExtUtils/MakeMaker/Tutorial.pod
+END
+FAQ.pod
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/ExtUtils/MakeMaker/FAQ.pod
+END

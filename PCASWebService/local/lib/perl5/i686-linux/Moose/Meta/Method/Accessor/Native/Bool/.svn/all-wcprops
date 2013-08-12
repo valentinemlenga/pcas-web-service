@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/Moose/Meta/Method/Accessor/Native/Bool
+END
+set.pm
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/Moose/Meta/Method/Accessor/Native/Bool/set.pm
+END
+unset.pm
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/Moose/Meta/Method/Accessor/Native/Bool/unset.pm
+END
+not.pm
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/Moose/Meta/Method/Accessor/Native/Bool/not.pm
+END
+toggle.pm
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/Moose/Meta/Method/Accessor/Native/Bool/toggle.pm
+END

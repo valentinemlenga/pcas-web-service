@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Data/Serializer/Convert
+END
+Bencode_XS.pm
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Data/Serializer/Convert/Bencode_XS.pm
+END
+Bencode.pm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Data/Serializer/Convert/Bencode.pm
+END

@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Tree/Simple/Visitor
+END
+LoadClassHierarchy.pm
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Tree/Simple/Visitor/LoadClassHierarchy.pm
+END
+PostOrderTraversal.pm
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Tree/Simple/Visitor/PostOrderTraversal.pm
+END
+FromNestedArray.pm
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Tree/Simple/Visitor/FromNestedArray.pm
+END
+BreadthFirstTraversal.pm
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Tree/Simple/Visitor/BreadthFirstTraversal.pm
+END
+PreOrderTraversal.pm
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Tree/Simple/Visitor/PreOrderTraversal.pm
+END
+CreateDirectoryTree.pm
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Tree/Simple/Visitor/CreateDirectoryTree.pm
+END
+FromNestedHash.pm
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Tree/Simple/Visitor/FromNestedHash.pm
+END
+FindByUID.pm
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Tree/Simple/Visitor/FindByUID.pm
+END
+FindByNodeValue.pm
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Tree/Simple/Visitor/FindByNodeValue.pm
+END
+ToNestedArray.pm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Tree/Simple/Visitor/ToNestedArray.pm
+END
+LoadDirectoryTree.pm
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Tree/Simple/Visitor/LoadDirectoryTree.pm
+END
+Sort.pm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Tree/Simple/Visitor/Sort.pm
+END
+GetAllDescendents.pm
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Tree/Simple/Visitor/GetAllDescendents.pm
+END
+FindByPath.pm
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Tree/Simple/Visitor/FindByPath.pm
+END
+ToNestedHash.pm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Tree/Simple/Visitor/ToNestedHash.pm
+END
+VariableDepthClone.pm
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Tree/Simple/Visitor/VariableDepthClone.pm
+END
+PathToRoot.pm
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/Tree/Simple/Visitor/PathToRoot.pm
+END

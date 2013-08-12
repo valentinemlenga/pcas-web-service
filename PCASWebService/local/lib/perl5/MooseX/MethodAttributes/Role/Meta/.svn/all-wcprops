@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/MooseX/MethodAttributes/Role/Meta
+END
+Class.pm
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/MooseX/MethodAttributes/Role/Meta/Class.pm
+END
+Map.pm
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/MooseX/MethodAttributes/Role/Meta/Map.pm
+END
+Method.pm
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/MooseX/MethodAttributes/Role/Meta/Method.pm
+END
+Role.pm
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/MooseX/MethodAttributes/Role/Meta/Role.pm
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/webservices/!svn/ver/5/trunk/local/lib/perl5/Catalyst/Engine
+END
+HTTP.pm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/webservices/!svn/ver/5/trunk/local/lib/perl5/Catalyst/Engine/HTTP.pm
+END
+FastCGI.pm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/webservices/!svn/ver/5/trunk/local/lib/perl5/Catalyst/Engine/FastCGI.pm
+END
+Apache.pm
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/webservices/!svn/ver/5/trunk/local/lib/perl5/Catalyst/Engine/Apache.pm
+END
+CGI.pm
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/webservices/!svn/ver/5/trunk/local/lib/perl5/Catalyst/Engine/CGI.pm
+END
+Apache2.pm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/webservices/!svn/ver/5/trunk/local/lib/perl5/Catalyst/Engine/Apache2.pm
+END

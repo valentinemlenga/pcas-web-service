@@ -1,0 +1,4997 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/repos/webservices/!svn/ver/5/trunk/local/man/man3
+END
+IO::Compress::Zip.3
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/IO::Compress::Zip.3
+END
+MooseX::Getopt::Meta::Attribute::Trait::NoGetopt.3
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/MooseX::Getopt::Meta::Attribute::Trait::NoGetopt.3
+END
+MooseX::MethodAttributes::Role::Meta::Class.3
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/MooseX::MethodAttributes::Role::Meta::Class.3
+END
+Data::Dump.3
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Data::Dump.3
+END
+Test::Requires.3
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Test::Requires.3
+END
+Template::Plugin::Assert.3
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Template::Plugin::Assert.3
+END
+Moose::Cookbook::Meta::Recipe1.3
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Moose::Cookbook::Meta::Recipe1.3
+END
+ExtUtils::MM_VOS.3
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/ExtUtils::MM_VOS.3
+END
+MooseX::Role::WithOverloading::Meta::Role::Application::Composite::ToClass.3
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/MooseX::Role::WithOverloading::Meta::Role::Application::Composite::ToClass.3
+END
+IO::Uncompress::Base.3
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/IO::Uncompress::Base.3
+END
+IO::Dir.3
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/IO::Dir.3
+END
+Catalyst::DispatchType::Chained.3
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Catalyst::DispatchType::Chained.3
+END
+Class::MOP::Class::Immutable::Trait.3
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Class::MOP::Class::Immutable::Trait.3
+END
+Moose::Manual::Roles.3
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Moose::Manual::Roles.3
+END
+Win32::DBIODBC.3
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Win32::DBIODBC.3
+END
+B::Hooks::EndOfScope.3
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/B::Hooks::EndOfScope.3
+END
+IO::Handle.3
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/IO::Handle.3
+END
+Sub::Identify.3
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Sub::Identify.3
+END
+ExtUtils::ParseXS.3
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/ExtUtils::ParseXS.3
+END
+CGI::Simple::Cookie.3
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/CGI::Simple::Cookie.3
+END
+Spreadsheet::ParseExcel::Dump.3
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Spreadsheet::ParseExcel::Dump.3
+END
+Catalyst.3
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Catalyst.3
+END
+Moose::Cookbook::Roles::Recipe3.3
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Moose::Cookbook::Roles::Recipe3.3
+END
+Getopt::Long::Descriptive::Opts.3
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Getopt::Long::Descriptive::Opts.3
+END
+Template::View.3
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Template::View.3
+END
+Tree::Simple::Visitor::ToNestedArray.3
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Tree::Simple::Visitor::ToNestedArray.3
+END
+TAP::Parser::Result::Test.3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/TAP::Parser::Result::Test.3
+END
+Moose::Meta::Role::Method::Required.3
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Moose::Meta::Role::Method::Required.3
+END
+Compress::Zlib.3
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Compress::Zlib.3
+END
+DBD::Gofer::Transport::stream.3
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/DBD::Gofer::Transport::stream.3
+END
+Moose::Cookbook::Style.3
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Moose::Cookbook::Style.3
+END
+aliased.3
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/aliased.3
+END
+Module::Build::Cookbook.3
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Module::Build::Cookbook.3
+END
+File::ChangeNotify::Watcher.3
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/File::ChangeNotify::Watcher.3
+END
+OLE::Storage_Lite.3
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/OLE::Storage_Lite.3
+END
+Moose::Cookbook::Basics::Recipe4.3
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Moose::Cookbook::Basics::Recipe4.3
+END
+DBI::ProfileDumper::Apache.3
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/DBI::ProfileDumper::Apache.3
+END
+Sub::Exporter.3
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Sub::Exporter.3
+END
+ExtUtils::CBuilder::Platform::Windows.3
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/ExtUtils::CBuilder::Platform::Windows.3
+END
+Moose::Meta::TypeConstraint.3
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Moose::Meta::TypeConstraint.3
+END
+Attribute::Handlers.3
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Attribute::Handlers.3
+END
+JSON.3
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/JSON.3
+END
+HTML::AsSubs.3
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/HTML::AsSubs.3
+END
+Tree::Simple::Visitor::FromNestedArray.3
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Tree::Simple::Visitor::FromNestedArray.3
+END
+MooseX::Getopt::Meta::Attribute::Trait.3
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/MooseX::Getopt::Meta::Attribute::Trait.3
+END
+Net::SMTP.3
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Net::SMTP.3
+END
+Sub::Name.3
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Sub::Name.3
+END
+Params::Validate.3
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Params::Validate.3
+END
+Moose::Cookbook::Meta::Recipe2.3
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Moose::Cookbook::Meta::Recipe2.3
+END
+JSON::Syck.3
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/JSON::Syck.3
+END
+XML::SAX::ParserFactory.3
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/XML::SAX::ParserFactory.3
+END
+Template::Base.3
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Template::Base.3
+END
+Moose::Manual::MethodModifiers.3
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Moose::Manual::MethodModifiers.3
+END
+Test::Warn.3
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Test::Warn.3
+END
+Template::Manual::Credits.3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Template::Manual::Credits.3
+END
+HTML::Tagset.3
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/HTML::Tagset.3
+END
+Archive::Tar::File.3
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Archive::Tar::File.3
+END
+ExtUtils::MM_UWIN.3
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/ExtUtils::MM_UWIN.3
+END
+Moose::Manual::Delta.3
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Moose::Manual::Delta.3
+END
+TAP::Parser::Multiplexer.3
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/TAP::Parser::Multiplexer.3
+END
+Moose::Meta::Attribute::Native::Trait::Number.3
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Moose::Meta::Attribute::Native::Trait::Number.3
+END
+CGI::Simple::Standard.3
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/CGI::Simple::Standard.3
+END
+DBD::File::Roadmap.3
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/DBD::File::Roadmap.3
+END
+DBI::Const::GetInfo::ODBC.3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/DBI::Const::GetInfo::ODBC.3
+END
+Path::Class.3
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Path::Class.3
+END
+WWW::Mechanize::FAQ.3
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/WWW::Mechanize::FAQ.3
+END
+Catalyst::Engine::Apache::MP13.3
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Catalyst::Engine::Apache::MP13.3
+END
+Module::Build::Platform::Default.3
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Module::Build::Platform::Default.3
+END
+Tree::Simple::Visitor::PostOrderTraversal.3
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Tree::Simple::Visitor::PostOrderTraversal.3
+END
+Moose::Meta::Role::Method::Conflicting.3
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Moose::Meta::Role::Method::Conflicting.3
+END
+Archive::Tar.3
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Archive::Tar.3
+END
+DBD::File.3
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/DBD::File.3
+END
+File::Spec.3
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/File::Spec.3
+END
+Class::C3::Adopt::NEXT.3
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Class::C3::Adopt::NEXT.3
+END
+Sub::Exporter::Tutorial.3
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Sub::Exporter::Tutorial.3
+END
+File::Remove.3
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/File::Remove.3
+END
+IPC::Cmd.3
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/IPC::Cmd.3
+END
+DBD::Gofer::Policy::Base.3
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/DBD::Gofer::Policy::Base.3
+END
+JSON::backportPP::Compat5005.3
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/JSON::backportPP::Compat5005.3
+END
+Template::Plugin::CGI.3
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Template::Plugin::CGI.3
+END
+Template::Modules.3
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Template::Modules.3
+END
+Attribute::Params::Validate.3
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Attribute::Params::Validate.3
+END
+URI::_punycode.3
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/URI::_punycode.3
+END
+IO::Select.3
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/IO::Select.3
+END
+Getopt::Long::Descriptive.3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Getopt::Long::Descriptive.3
+END
+Data::Serializer::Persistent.3
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Data::Serializer::Persistent.3
+END
+HTTP::Server::Simple::CGI.3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/HTTP::Server::Simple::CGI.3
+END
+ExtUtils::MM_AIX.3
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/ExtUtils::MM_AIX.3
+END
+Net::Domain.3
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Net::Domain.3
+END
+XML::SAX::PurePerl.3
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/XML::SAX::PurePerl.3
+END
+Module::Build::Platform::Amiga.3
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Module::Build::Platform::Amiga.3
+END
+Catalyst::Action.3
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Catalyst::Action.3
+END
+Template::Grammar.3
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Template::Grammar.3
+END
+MooseX::Getopt::Basic.3
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/MooseX::Getopt::Basic.3
+END
+Moose::Cookbook::Basics::Recipe5.3
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Moose::Cookbook::Basics::Recipe5.3
+END
+Spreadsheet::ParseExcel::SaveParser::Worksheet.3
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Spreadsheet::ParseExcel::SaveParser::Worksheet.3
+END
+Sub::Uplevel.3
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Sub::Uplevel.3
+END
+inc::latest.3
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/inc::latest.3
+END
+Test::Fatal.3
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Test::Fatal.3
+END
+YAML::Types.3
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/YAML::Types.3
+END
+MooseX::MethodAttributes::Role::Meta::Role.3
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/MooseX::MethodAttributes::Role::Meta::Role.3
+END
+Template::Plugin::Dumper.3
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Template::Plugin::Dumper.3
+END
+Moose::Meta::TypeConstraint::Enum.3
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Moose::Meta::TypeConstraint::Enum.3
+END
+ExtUtils::MM_Win32.3
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/ExtUtils::MM_Win32.3
+END
+Test::Exception.3
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Test::Exception.3
+END
+Moose::Meta::TypeConstraint::Registry.3
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Moose::Meta::TypeConstraint::Registry.3
+END
+Moose::Cookbook::Meta::Recipe3.3
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Moose::Cookbook::Meta::Recipe3.3
+END
+DBI::Const::GetInfo::ANSI.3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/DBI::Const::GetInfo::ANSI.3
+END
+Test::HACKING.3
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Test::HACKING.3
+END
+Catalyst::DispatchType.3
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Catalyst::DispatchType.3
+END
+TAP::Parser::Scheduler::Spinner.3
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/TAP::Parser::Scheduler::Spinner.3
+END
+Template::Constants.3
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Template::Constants.3
+END
+Template::Directive.3
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Template::Directive.3
+END
+YAML::Any.3
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/YAML::Any.3
+END
+Net::libnetFAQ.3
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Net::libnetFAQ.3
+END
+TAP::Parser::Result::Version.3
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/TAP::Parser::Result::Version.3
+END
+URI::Heuristic.3
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/URI::Heuristic.3
+END
+Template::Manual::Config.3
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Template::Manual::Config.3
+END
+WWW::Mechanize::Cookbook.3
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/WWW::Mechanize::Cookbook.3
+END
+Catalyst::Request::Upload.3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Catalyst::Request::Upload.3
+END
+Tree::Simple::Visitor::BreadthFirstTraversal.3
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Tree::Simple::Visitor::BreadthFirstTraversal.3
+END
+TAP::Parser::Result::Bailout.3
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/TAP::Parser::Result::Bailout.3
+END
+MIME::Type.3
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/MIME::Type.3
+END
+Config::Any::JSON.3
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Config::Any::JSON.3
+END
+TAP::Parser::Result::YAML.3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/TAP::Parser::Result::YAML.3
+END
+Moose::Util::TypeConstraints.3
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Moose::Util::TypeConstraints.3
+END
+Moose::Meta::TypeCoercion::Union.3
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Moose::Meta::TypeCoercion::Union.3
+END
+Test::Deep::NoTest.3
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Test::Deep::NoTest.3
+END
+YAML::Tag.3
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/YAML::Tag.3
+END
+File::Spec::Mac.3
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/File::Spec::Mac.3
+END
+Tree::Simple::Visitor::FindByUID.3
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Tree::Simple::Visitor::FindByUID.3
+END
+JSON::backportPP::Compat5006.3
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/JSON::backportPP::Compat5006.3
+END
+Catalyst::Exception.3
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Catalyst::Exception.3
+END
+Spreadsheet::ParseExcel::SaveParser.3
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Spreadsheet::ParseExcel::SaveParser.3
+END
+MooseX::MethodAttributes::Role::AttrContainer::Inheritable.3
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/MooseX::MethodAttributes::Role::AttrContainer::Inheritable.3
+END
+Spreadsheet::ParseExcel::SaveParser::Workbook.3
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Spreadsheet::ParseExcel::SaveParser::Workbook.3
+END
+Module::ScanDeps.3
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Module::ScanDeps.3
+END
+HTML::Tree::AboutTrees.3
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/HTML::Tree::AboutTrees.3
+END
+URI::QueryParam.3
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/URI::QueryParam.3
+END
+TAP::Formatter::Console::Session.3
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/TAP::Formatter::Console::Session.3
+END
+CPAN::Kwalify.3
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/CPAN::Kwalify.3
+END
+Config::General::Extended.3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Config::General::Extended.3
+END
+Module::Build::Platform::EBCDIC.3
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Module::Build::Platform::EBCDIC.3
+END
+XML::SAX::Intro.3
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/XML::SAX::Intro.3
+END
+Catalyst::Engine::Apache2::MP19.3
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Catalyst::Engine::Apache2::MP19.3
+END
+ExtUtils::Installed.3
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/ExtUtils::Installed.3
+END
+Moose::Meta::Method::Overridden.3
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Moose::Meta::Method::Overridden.3
+END
+Moose::Cookbook::Basics::Recipe6.3
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Moose::Cookbook::Basics::Recipe6.3
+END
+Module::Build::Base.3
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Module::Build::Base.3
+END
+Spreadsheet::ParseExcel::FmtUnicode.3
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Spreadsheet::ParseExcel::FmtUnicode.3
+END
+Template::Iterator.3
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Template::Iterator.3
+END
+Bundle::DBI.3
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Bundle::DBI.3
+END
+Data::OptList.3
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Data::OptList.3
+END
+Package::Constants.3
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Package::Constants.3
+END
+DBD::Proxy.3
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/DBD::Proxy.3
+END
+Moose::Manual::FAQ.3
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Moose::Manual::FAQ.3
+END
+IO::Compress::Deflate.3
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/IO::Compress::Deflate.3
+END
+URI::ldap.3
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/URI::ldap.3
+END
+XML::SAX::Expat.3
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/XML::SAX::Expat.3
+END
+Moose::Meta::Attribute::Native::Trait::Code.3
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Moose::Meta::Attribute::Native::Trait::Code.3
+END
+Moose::Cookbook::Meta::Recipe4.3
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Moose::Cookbook::Meta::Recipe4.3
+END
+File::ChangeNotify::Event.3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/File::ChangeNotify::Event.3
+END
+Package::DeprecationManager.3
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Package::DeprecationManager.3
+END
+TAP::Parser::SourceHandler::Handle.3
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/TAP::Parser::SourceHandler::Handle.3
+END
+Module::Build::Platform::os2.3
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Module::Build::Platform::os2.3
+END
+YAML::Node.3
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/YAML::Node.3
+END
+Module::Build::Bundling.3
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Module::Build::Bundling.3
+END
+TAP::Parser::ResultFactory.3
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/TAP::Parser::ResultFactory.3
+END
+Template::Plugin::Date.3
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Template::Plugin::Date.3
+END
+DBI::Gofer::Serializer::Base.3
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/DBI::Gofer::Serializer::Base.3
+END
+URI::Escape.3
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/URI::Escape.3
+END
+Params::Check.3
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Params::Check.3
+END
+TAP::Parser::Result::Plan.3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/TAP::Parser::Result::Plan.3
+END
+Moose::Meta::TypeConstraint::Parameterized.3
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Moose::Meta::TypeConstraint::Parameterized.3
+END
+Catalyst::Runtime.3
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Catalyst::Runtime.3
+END
+DBI::Gofer::Execute.3
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/DBI::Gofer::Execute.3
+END
+TAP::Formatter::Color.3
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/TAP::Formatter::Color.3
+END
+Config::Any::General.3
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Config::Any::General.3
+END
+URI::file.3
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/URI::file.3
+END
+Tree::Simple::Visitor::FindByNodeValue.3
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Tree::Simple::Visitor::FindByNodeValue.3
+END
+HTML::TokeParser.3
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/HTML::TokeParser.3
+END
+MooseX::MethodAttributes::Role::Meta::Map.3
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/MooseX::MethodAttributes::Role::Meta::Map.3
+END
+TAP::Parser::Utils.3
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/TAP::Parser::Utils.3
+END
+CPAN::FirstTime.3
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/CPAN::FirstTime.3
+END
+Template::Plugin::Wrap.3
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Template::Plugin::Wrap.3
+END
+Net::Config.3
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Net::Config.3
+END
+DBI::Gofer::Request.3
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/DBI::Gofer::Request.3
+END
+Moose::Manual::BestPractices.3
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Moose::Manual::BestPractices.3
+END
+Class::Accessor::Faster.3
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Class::Accessor::Faster.3
+END
+Data::Serializer::PHP::Serialization.3
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Data::Serializer::PHP::Serialization.3
+END
+Template::Plugin::Pod.3
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Template::Plugin::Pod.3
+END
+TAP::Parser::Iterator::Array.3
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/TAP::Parser::Iterator::Array.3
+END
+Data::Serializer::Storable.3
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Data::Serializer::Storable.3
+END
+XML::SAX::DocumentLocator.3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/XML::SAX::DocumentLocator.3
+END
+Moose::Cookbook::Basics::Recipe7.3
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Moose::Cookbook::Basics::Recipe7.3
+END
+Template::Manual::Variables.3
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Template::Manual::Variables.3
+END
+ExtUtils::MY.3
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/ExtUtils::MY.3
+END
+Template.3
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Template.3
+END
+Template::Parser.3
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Template::Parser.3
+END
+CPAN.3
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/CPAN.3
+END
+Moose::Intro.3
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Moose::Intro.3
+END
+Catalyst::Response.3
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Catalyst::Response.3
+END
+Template::Plugin::Scalar.3
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Template::Plugin::Scalar.3
+END
+Moose::Cookbook::Meta::Recipe5.3
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Moose::Cookbook::Meta::Recipe5.3
+END
+version::Internals.3
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/version::Internals.3
+END
+Catalyst::DispatchType::Path.3
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Catalyst::DispatchType::Path.3
+END
+Data::Serializer::Data::Denter.3
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Data::Serializer::Data::Denter.3
+END
+DBI::ProfileData.3
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/DBI::ProfileData.3
+END
+Template::Stash.3
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Template::Stash.3
+END
+Moose::Manual::Construction.3
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Moose::Manual::Construction.3
+END
+Catalyst::Request::REST.3
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Catalyst::Request::REST.3
+END
+Catalyst::Script::CGI.3
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Catalyst::Script::CGI.3
+END
+Template::Tutorial::Web.3
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Template::Tutorial::Web.3
+END
+oose.3
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/oose.3
+END
+Test::Moose.3
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Test::Moose.3
+END
+TAP::Formatter::Console::ParallelSession.3
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/TAP::Formatter::Console::ParallelSession.3
+END
+IO::Uncompress::AnyInflate.3
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/IO::Uncompress::AnyInflate.3
+END
+TAP::Parser::Result::Unknown.3
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/TAP::Parser::Result::Unknown.3
+END
+Template::Plugin::Iterator.3
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Template::Plugin::Iterator.3
+END
+Class::MOP::Attribute.3
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Class::MOP::Attribute.3
+END
+Template::Exception.3
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Template::Exception.3
+END
+IO::ScalarArray.3
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/IO::ScalarArray.3
+END
+Class::Inspector.3
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Class::Inspector.3
+END
+TAP::Parser::Grammar.3
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/TAP::Parser::Grammar.3
+END
+IO::Poll.3
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/IO::Poll.3
+END
+Net::FTP.3
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Net::FTP.3
+END
+Data::Serializer::Raw.3
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Data::Serializer::Raw.3
+END
+Config::General::Interpolated.3
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Config::General::Interpolated.3
+END
+Data::Dump::Filtered.3
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Data::Dump::Filtered.3
+END
+Moose::Deprecated.3
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Moose::Deprecated.3
+END
+Scalar::Util.3
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Scalar::Util.3
+END
+Catalyst::Plugin::ConfigLoader.3
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Catalyst::Plugin::ConfigLoader.3
+END
+Exporter::Heavy.3
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Exporter::Heavy.3
+END
+Template::Plugin::String.3
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Template::Plugin::String.3
+END
+ExtUtils::Mkbootstrap.3
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/ExtUtils::Mkbootstrap.3
+END
+Devel::InnerPackage.3
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Devel::InnerPackage.3
+END
+Test::Tester::CaptureRunner.3
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Test::Tester::CaptureRunner.3
+END
+Class::MOP::Method::Generated.3
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Class::MOP::Method::Generated.3
+END
+HTML::Filter.3
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/HTML::Filter.3
+END
+Tree::Simple::Visitor::ToNestedHash.3
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Tree::Simple::Visitor::ToNestedHash.3
+END
+Test::Builder::IO::Scalar.3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Test::Builder::IO::Scalar.3
+END
+HTML::Tree::AboutObjects.3
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/HTML::Tree::AboutObjects.3
+END
+HTML::Element::traverse.3
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/HTML::Element::traverse.3
+END
+Moose::Meta::Role::Application::ToRole.3
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Moose::Meta::Role::Application::ToRole.3
+END
+Template::Context.3
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Template::Context.3
+END
+ExtUtils::Mksymlists.3
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/ExtUtils::Mksymlists.3
+END
+Class::MOP.3
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Class::MOP.3
+END
+Class::MOP::Package.3
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Class::MOP::Package.3
+END
+File::ChangeNotify::ConfigData.3
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/File::ChangeNotify::ConfigData.3
+END
+Carp::Clan.3
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Carp::Clan.3
+END
+IO::Socket::INET.3
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/IO::Socket::INET.3
+END
+Moose::Cookbook::Basics::Recipe8.3
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Moose::Cookbook::Basics::Recipe8.3
+END
+String::RewritePrefix.3
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/String::RewritePrefix.3
+END
+Class::C3.3
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Class::C3.3
+END
+Catalyst::Script::FastCGI.3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Catalyst::Script::FastCGI.3
+END
+Package::Stash.3
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Package::Stash.3
+END
+WWW::Mechanize::Image.3
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/WWW::Mechanize::Image.3
+END
+IO::Uncompress::Unzip.3
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/IO::Uncompress::Unzip.3
+END
+Compress::Raw::Bzip2.3
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Compress::Raw::Bzip2.3
+END
+URI::Find.3
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/URI::Find.3
+END
+Moose::Cookbook::Meta::Recipe6.3
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Moose::Cookbook::Meta::Recipe6.3
+END
+Template::Manual::Intro.3
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Template::Manual::Intro.3
+END
+YAML::Error.3
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/YAML::Error.3
+END
+Class::MOP::Method::Wrapped.3
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Class::MOP::Method::Wrapped.3
+END
+Moose::Manual::MOP.3
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Moose::Manual::MOP.3
+END
+Test::Builder::Module.3
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Test::Builder::Module.3
+END
+DBD::Gofer::Transport::pipeone.3
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/DBD::Gofer::Transport::pipeone.3
+END
+JSON::XS.3
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/JSON::XS.3
+END
+File::Spec::Epoc.3
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/File::Spec::Epoc.3
+END
+Catalyst::DispatchType::Regex.3
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Catalyst::DispatchType::Regex.3
+END
+XML::Simple::FAQ.3
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/XML::Simple::FAQ.3
+END
+Data::Serializer::YAML::Syck.3
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Data::Serializer::YAML::Syck.3
+END
+MooseX::MethodAttributes::Role.3
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/MooseX::MethodAttributes::Role.3
+END
+AppConfig::CGI.3
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/AppConfig::CGI.3
+END
+Class::Data::Inheritable.3
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Class::Data::Inheritable.3
+END
+Data::Visitor::Callback.3
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Data::Visitor::Callback.3
+END
+ExtUtils::MM_MacOS.3
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/ExtUtils::MM_MacOS.3
+END
+TAP::Parser::YAMLish::Writer.3
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/TAP::Parser::YAMLish::Writer.3
+END
+TAP::Formatter::Session.3
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/TAP::Formatter::Session.3
+END
+MooseX::MethodAttributes::Role::Meta::Role::Application.3
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/MooseX::MethodAttributes::Role::Meta::Role::Application.3
+END
+Moose::Manual::Concepts.3
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Moose::Manual::Concepts.3
+END
+Test::Harness.3
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Test::Harness.3
+END
+XML::Parser::Style::Subs.3
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/XML::Parser::Style::Subs.3
+END
+DBD::Gofer::Policy::rush.3
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/DBD::Gofer::Policy::rush.3
+END
+Module::Build::Authoring.3
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Module::Build::Authoring.3
+END
+Catalyst::Engine.3
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Catalyst::Engine.3
+END
+Moose::Exporter.3
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Moose::Exporter.3
+END
+Template::Test.3
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Template::Test.3
+END
+MooseX::Params::Validate.3
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/MooseX::Params::Validate.3
+END
+Catalyst::Exception::Go.3
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Catalyst::Exception::Go.3
+END
+Sub::Install.3
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Sub::Install.3
+END
+Catalyst::Script::Create.3
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Catalyst::Script::Create.3
+END
+Params::Util.3
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Params::Util.3
+END
+File::Spec::Unix.3
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/File::Spec::Unix.3
+END
+JSON::backportPP::Boolean.3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/JSON::backportPP::Boolean.3
+END
+TAP::Parser::Scheduler.3
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/TAP::Parser::Scheduler.3
+END
+MooseX::Role::WithOverloading::Meta::Role::Application::Composite.3
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/MooseX::Role::WithOverloading::Meta::Role::Application::Composite.3
+END
+Moose::Cookbook::Basics::Recipe9.3
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Moose::Cookbook::Basics::Recipe9.3
+END
+IO::Stringy.3
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/IO::Stringy.3
+END
+MooseX::Getopt::Meta::Attribute.3
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/MooseX::Getopt::Meta::Attribute.3
+END
+Test::Builder::Tester.3
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Test::Builder::Tester.3
+END
+TAP::Parser::Scheduler::Job.3
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/TAP::Parser::Scheduler::Job.3
+END
+HTML::LinkExtor.3
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/HTML::LinkExtor.3
+END
+File::Spec::VMS.3
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/File::Spec::VMS.3
+END
+Catalyst::ClassData.3
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Catalyst::ClassData.3
+END
+TAP::Parser::SourceHandler.3
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/TAP::Parser::SourceHandler.3
+END
+CPAN::Distroprefs.3
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/CPAN::Distroprefs.3
+END
+Data::Serializer::Convert::Bencode_XS.3
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Data::Serializer::Convert::Bencode_XS.3
+END
+PAR::Dist.3
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/PAR::Dist.3
+END
+Moose::Cookbook::Meta::Recipe7.3
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Moose::Cookbook::Meta::Recipe7.3
+END
+TAP::Parser::SourceHandler::RawTAP.3
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/TAP::Parser::SourceHandler::RawTAP.3
+END
+TAP::Harness.3
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/TAP::Harness.3
+END
+Data::Serializer::YAML.3
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Data::Serializer::YAML.3
+END
+MooseX::Getopt::Strict.3
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/MooseX::Getopt::Strict.3
+END
+WWW::Mechanize::Link.3
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/WWW::Mechanize::Link.3
+END
+XML::NamespaceSupport.3
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/XML::NamespaceSupport.3
+END
+MIME::Types.3
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/MIME::Types.3
+END
+MooseX::Types::Combine.3
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/MooseX::Types::Combine.3
+END
+Tree::DAG_Node.3
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Tree::DAG_Node.3
+END
+local::lib.3
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/local::lib.3
+END
+CPAN::DistnameInfo.3
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/CPAN::DistnameInfo.3
+END
+Net::Netrc.3
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Net::Netrc.3
+END
+Moose::Meta::Role::Application::ToInstance.3
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Moose::Meta::Role::Application::ToInstance.3
+END
+Class::MOP::MiniTrait.3
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Class::MOP::MiniTrait.3
+END
+Net::NNTP.3
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Net::NNTP.3
+END
+YAML::Marshall.3
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/YAML::Marshall.3
+END
+Module::Build::Platform::darwin.3
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Module::Build::Platform::darwin.3
+END
+DBI::ProxyServer.3
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/DBI::ProxyServer.3
+END
+AppConfig::Getopt.3
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/AppConfig::Getopt.3
+END
+URI::data.3
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/URI::data.3
+END
+Template::Plugin.3
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Template::Plugin.3
+END
+Data::Serializer::Data::Taxi.3
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Data::Serializer::Data::Taxi.3
+END
+XML::SAX::Base.3
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/XML::SAX::Base.3
+END
+Catalyst::Plugin::Static::Simple.3
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Catalyst::Plugin::Static::Simple.3
+END
+ExtUtils::MM_OS2.3
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/ExtUtils::MM_OS2.3
+END
+File::Spec::Cygwin.3
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/File::Spec::Cygwin.3
+END
+Catalyst::Engine::Apache.3
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Catalyst::Engine::Apache.3
+END
+Module::Build::Platform::RiscOS.3
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Module::Build::Platform::RiscOS.3
+END
+Catalyst::Model.3
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Catalyst::Model.3
+END
+IO::Uncompress::Gunzip.3
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/IO::Uncompress::Gunzip.3
+END
+Moose::Object.3
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Moose::Object.3
+END
+Spreadsheet::ParseExcel::Format.3
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Spreadsheet::ParseExcel::Format.3
+END
+DBI::Gofer::Transport::stream.3
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/DBI::Gofer::Transport::stream.3
+END
+Moose::Meta::Attribute::Native::Trait.3
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Moose::Meta::Attribute::Native::Trait.3
+END
+Template::Tools::ttree.3
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Template::Tools::ttree.3
+END
+Test::Builder::Tester::Color.3
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Test::Builder::Tester::Color.3
+END
+CPAN::Version.3
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/CPAN::Version.3
+END
+Class::MOP::Class.3
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Class::MOP::Class.3
+END
+Moose::Manual::Contributing.3
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Moose::Manual::Contributing.3
+END
+MIME::Base64.3
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/MIME::Base64.3
+END
+MooseX::Role::WithOverloading::Meta::Role::Application::ToClass.3
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/MooseX::Role::WithOverloading::Meta::Role::Application::ToClass.3
+END
+MooseX::Types::Common.3
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/MooseX::Types::Common.3
+END
+Catalyst::Request.3
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Catalyst::Request.3
+END
+MooseX::MethodAttributes::Role::Meta::Method::MaybeWrapped.3
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/MooseX::MethodAttributes::Role::Meta::Method::MaybeWrapped.3
+END
+Sub::Exporter::Cookbook.3
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Sub::Exporter::Cookbook.3
+END
+HTML::Parse.3
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/HTML::Parse.3
+END
+TAP::Parser::Iterator::Stream.3
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/TAP::Parser::Iterator::Stream.3
+END
+TAP::Parser::Result::Pragma.3
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/TAP::Parser::Result::Pragma.3
+END
+Template::Config.3
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Template::Config.3
+END
+Spreadsheet::ParseExcel::Worksheet.3
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Spreadsheet::ParseExcel::Worksheet.3
+END
+App::Prove::State::Result.3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/App::Prove::State::Result.3
+END
+File::Temp.3
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/File::Temp.3
+END
+Catalyst::Utils.3
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Catalyst::Utils.3
+END
+Net::Time.3
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Net::Time.3
+END
+List::Util::XS.3
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/List::Util::XS.3
+END
+ExtUtils::Install.3
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/ExtUtils::Install.3
+END
+Template::Manual.3
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Template::Manual.3
+END
+Moose::Manual::Classes.3
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Moose::Manual::Classes.3
+END
+IO.3
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/IO.3
+END
+IO::Pipe.3
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/IO::Pipe.3
+END
+Catalyst::ActionContainer.3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Catalyst::ActionContainer.3
+END
+MIME::QuotedPrint.3
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/MIME::QuotedPrint.3
+END
+Moose::Manual::Types.3
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Moose::Manual::Types.3
+END
+ExtUtils::MM_Cygwin.3
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/ExtUtils::MM_Cygwin.3
+END
+TAP::Parser::Result::Comment.3
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/TAP::Parser::Result::Comment.3
+END
+Template::Tools.3
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Template::Tools.3
+END
+IO::WrapTie.3
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/IO::WrapTie.3
+END
+Path::Class::Dir.3
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Path::Class::Dir.3
+END
+Moose::Meta::Role::Application.3
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Moose::Meta::Role::Application.3
+END
+ExtUtils::Manifest.3
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/ExtUtils::Manifest.3
+END
+Catalyst::Model::DBI.3
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Catalyst::Model::DBI.3
+END
+Catalyst::Exception::Interface.3
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Catalyst::Exception::Interface.3
+END
+Template::Plugin::Datafile.3
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Template::Plugin::Datafile.3
+END
+Class::MOP::Mixin.3
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Class::MOP::Mixin.3
+END
+ExtUtils::MM.3
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/ExtUtils::MM.3
+END
+TAP::Object.3
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/TAP::Object.3
+END
+MooseX::MethodAttributes::Inheritable.3
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/MooseX::MethodAttributes::Inheritable.3
+END
+Template::Tutorial::Datafile.3
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Template::Tutorial::Datafile.3
+END
+Test::Deep.3
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Test::Deep.3
+END
+Catalyst::Action::Serialize.3
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Catalyst::Action::Serialize.3
+END
+TAP::Formatter::Console.3
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/TAP::Formatter::Console.3
+END
+Getopt::Long.3
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Getopt::Long.3
+END
+URI::URL.3
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/URI::URL.3
+END
+TAP::Parser::Result.3
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/TAP::Parser::Result.3
+END
+Catalyst::Log.3
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Catalyst::Log.3
+END
+DBI::FAQ.3
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/DBI::FAQ.3
+END
+IO::Uncompress::RawInflate.3
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/IO::Uncompress::RawInflate.3
+END
+HTML::Tree::Scanning.3
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/HTML::Tree::Scanning.3
+END
+Class::Accessor::Fast.3
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Class::Accessor::Fast.3
+END
+Catalyst::ScriptRole.3
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Catalyst::ScriptRole.3
+END
+DBI::ProfileDumper.3
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/DBI::ProfileDumper.3
+END
+Module::Load::Conditional.3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Module::Load::Conditional.3
+END
+Moose::Util::TypeConstraints::OptimizedConstraints.3
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Moose::Util::TypeConstraints::OptimizedConstraints.3
+END
+MooseX::Types.3
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/MooseX::Types.3
+END
+Moose::Cookbook::Extending::Recipe1.3
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Moose::Cookbook::Extending::Recipe1.3
+END
+Catalyst::Exception::Detach.3
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Catalyst::Exception::Detach.3
+END
+Moose::Meta::TypeCoercion.3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Moose::Meta::TypeCoercion.3
+END
+Moose::Error::Confess.3
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Moose::Error::Confess.3
+END
+IO::Seekable.3
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/IO::Seekable.3
+END
+Data::Serializer::XML::Simple.3
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Data::Serializer::XML::Simple.3
+END
+IO::File.3
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/IO::File.3
+END
+Spreadsheet::ParseExcel::Cell.3
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Spreadsheet::ParseExcel::Cell.3
+END
+DBI::DBD.3
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/DBI::DBD.3
+END
+MooseX::MethodAttributes::Role::Meta::Method.3
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/MooseX::MethodAttributes::Role::Meta::Method.3
+END
+ExtUtils::MakeMaker::FAQ.3
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/ExtUtils::MakeMaker::FAQ.3
+END
+DBI::SQL::Nano.3
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/DBI::SQL::Nano.3
+END
+Catalyst::View.3
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Catalyst::View.3
+END
+MooseX::MethodAttributes::Role::Meta::Method::Wrapped.3
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/MooseX::MethodAttributes::Role::Meta::Method::Wrapped.3
+END
+IO::Socket.3
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/IO::Socket.3
+END
+XML::Parser::Style::Stream.3
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/XML::Parser::Style::Stream.3
+END
+AppConfig::Args.3
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/AppConfig::Args.3
+END
+Spreadsheet::ParseExcel::FmtDefault.3
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Spreadsheet::ParseExcel::FmtDefault.3
+END
+TAP::Parser::YAMLish::Reader.3
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/TAP::Parser::YAMLish::Reader.3
+END
+Moose::Meta::Attribute::Native::Trait::Bool.3
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Moose::Meta::Attribute::Native::Trait::Bool.3
+END
+HTTP::Server::Simple::CGI::Environment.3
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/HTTP::Server::Simple::CGI::Environment.3
+END
+Catalyst::Script::Server.3
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Catalyst::Script::Server.3
+END
+XML::Parser::Style::Tree.3
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/XML::Parser::Style::Tree.3
+END
+Moose::Cookbook::Snack::Keywords.3
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Moose::Cookbook::Snack::Keywords.3
+END
+App::Prove.3
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/App::Prove.3
+END
+Config::Any::Base.3
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Config::Any::Base.3
+END
+YAML::Syck.3
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/YAML::Syck.3
+END
+Moose::Cookbook::Basics::Recipe10.3
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Moose::Cookbook::Basics::Recipe10.3
+END
+File::ShareDir.3
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/File::ShareDir.3
+END
+Moose::Role.3
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Moose::Role.3
+END
+Carp::Assert.3
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Carp::Assert.3
+END
+Module::Pluggable.3
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Module::Pluggable.3
+END
+Module::Build::Platform::VMS.3
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Module::Build::Platform::VMS.3
+END
+Net::Cmd.3
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Net::Cmd.3
+END
+Catalyst::Base.3
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Catalyst::Base.3
+END
+YAML::Dumper.3
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/YAML::Dumper.3
+END
+Catalyst::Engine::CGI.3
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Catalyst::Engine::CGI.3
+END
+App::Prove::State.3
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/App::Prove::State.3
+END
+Template::Plugin::Table.3
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Template::Plugin::Table.3
+END
+common::sense.3
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/common::sense.3
+END
+IO::Zlib.3
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/IO::Zlib.3
+END
+Test::Simple.3
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Test::Simple.3
+END
+IO::Scalar.3
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/IO::Scalar.3
+END
+CGI::Simple::Util.3
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/CGI::Simple::Util.3
+END
+Moose::Cookbook::Extending::Recipe2.3
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Moose::Cookbook::Extending::Recipe2.3
+END
+IO::Compress::Gzip.3
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/IO::Compress::Gzip.3
+END
+IO::Lines.3
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/IO::Lines.3
+END
+Config::General.3
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Config::General.3
+END
+MooseX::Types::Common::Numeric.3
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/MooseX::Types::Common::Numeric.3
+END
+Test::Tutorial.3
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Test::Tutorial.3
+END
+Devel::GlobalDestruction.3
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Devel::GlobalDestruction.3
+END
+Module::Build::Platform::MacOS.3
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Module::Build::Platform::MacOS.3
+END
+POD2::PT_BR::local::lib.3
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/POD2::PT_BR::local::lib.3
+END
+IO::Compress::RawDeflate.3
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/IO::Compress::RawDeflate.3
+END
+CPAN::Nox.3
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/CPAN::Nox.3
+END
+Catalyst::Component.3
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Catalyst::Component.3
+END
+File::ChangeNotify::Watcher::Default.3
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/File::ChangeNotify::Watcher::Default.3
+END
+Template::Namespace::Constants.3
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Template::Namespace::Constants.3
+END
+Moose::Meta::Role::Application::RoleSummation.3
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Moose::Meta::Role::Application::RoleSummation.3
+END
+Moose::Manual::Attributes.3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Moose::Manual::Attributes.3
+END
+DBI::ProfileSubs.3
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/DBI::ProfileSubs.3
+END
+Config::Any.3
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Config::Any.3
+END
+Moose::Meta::Method.3
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Moose::Meta::Method.3
+END
+File::ChangeNotify::Watcher::KQueue.3
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/File::ChangeNotify::Watcher::KQueue.3
+END
+Config::Any::Perl.3
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Config::Any::Perl.3
+END
+DBI::Gofer::Response.3
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/DBI::Gofer::Response.3
+END
+Catalyst::Action::Deserialize.3
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Catalyst::Action::Deserialize.3
+END
+POD2::DE::local::lib.3
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/POD2::DE::local::lib.3
+END
+Template::Plugin::Format.3
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Template::Plugin::Format.3
+END
+MooseX::Role::WithOverloading::Meta::Role::Application::ToRole.3
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/MooseX::Role::WithOverloading::Meta::Role::Application::ToRole.3
+END
+Cwd.3
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Cwd.3
+END
+Class::MOP::Instance.3
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Class::MOP::Instance.3
+END
+Tree::Simple::Visitor::CreateDirectoryTree.3
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Tree::Simple::Visitor::CreateDirectoryTree.3
+END
+Module::Build::Compat.3
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Module::Build::Compat.3
+END
+Moose::Meta::TypeConstraint::Parameterizable.3
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Moose::Meta::TypeConstraint::Parameterizable.3
+END
+Moose::Cookbook::Basics::Recipe11.3
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Moose::Cookbook::Basics::Recipe11.3
+END
+Moose::Manual::Support.3
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Moose::Manual::Support.3
+END
+IO::Uncompress::AnyUncompress.3
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/IO::Uncompress::AnyUncompress.3
+END
+Class::MOP::Method::Meta.3
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Class::MOP::Method::Meta.3
+END
+ExtUtils::MM_QNX.3
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/ExtUtils::MM_QNX.3
+END
+TAP::Parser.3
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/TAP::Parser.3
+END
+Template::Plugin::URL.3
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Template::Plugin::URL.3
+END
+MooseX::SemiAffordanceAccessor::Role::Attribute.3
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/MooseX::SemiAffordanceAccessor::Role::Attribute.3
+END
+Moose::Spec::Role.3
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Moose::Spec::Role.3
+END
+IO::InnerFile.3
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/IO::InnerFile.3
+END
+DBD::File::Developers.3
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/DBD::File::Developers.3
+END
+YAML::Tiny.3
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/YAML::Tiny.3
+END
+Moose::Meta::Role::Attribute.3
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Moose::Meta::Role::Attribute.3
+END
+Moose::Meta::Attribute::Native::Trait::Array.3
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Moose::Meta::Attribute::Native::Trait::Array.3
+END
+Tree::Simple::Visitor::GetAllDescendents.3
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Tree::Simple::Visitor::GetAllDescendents.3
+END
+URI::Split.3
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/URI::Split.3
+END
+Tree::Simple::Visitor.3
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Tree::Simple::Visitor.3
+END
+Data::Serializer::Cookbook.3
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Data::Serializer::Cookbook.3
+END
+ExtUtils::Command.3
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/ExtUtils::Command.3
+END
+Data::Serializer::JSON.3
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Data::Serializer::JSON.3
+END
+Data::Serializer::Data::Dumper.3
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Data::Serializer::Data::Dumper.3
+END
+Try::Tiny.3
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Try::Tiny.3
+END
+Net::POP3.3
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Net::POP3.3
+END
+TAP::Parser::SourceHandler::File.3
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/TAP::Parser::SourceHandler::File.3
+END
+Moose::Unsweetened.3
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Moose::Unsweetened.3
+END
+Catalyst::Exception::Basic.3
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Catalyst::Exception::Basic.3
+END
+CPAN::Admin.3
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/CPAN::Admin.3
+END
+HTML::TreeBuilder.3
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/HTML::TreeBuilder.3
+END
+Moose::Meta::Attribute::Native.3
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Moose::Meta::Attribute::Native.3
+END
+TAP::Formatter::File.3
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/TAP::Formatter::File.3
+END
+DBI::Util::CacheMemory.3
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/DBI::Util::CacheMemory.3
+END
+version.3
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/version.3
+END
+Moose::Cookbook::Extending::Recipe3.3
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Moose::Cookbook::Extending::Recipe3.3
+END
+Template::Manual::Syntax.3
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Template::Manual::Syntax.3
+END
+Test::Tester.3
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Test::Tester.3
+END
+Data::Serializer::Bencode.3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Data::Serializer::Bencode.3
+END
+Data::Serializer::XML::Dumper.3
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Data::Serializer::XML::Dumper.3
+END
+Catalyst::Controller::REST.3
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Catalyst::Controller::REST.3
+END
+Module::Build::ModuleInfo.3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Module::Build::ModuleInfo.3
+END
+URI.3
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/URI.3
+END
+DBD::Gofer.3
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/DBD::Gofer.3
+END
+XML::SAX.3
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/XML::SAX.3
+END
+Config::Any::XML.3
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Config::Any::XML.3
+END
+MooseX::SemiAffordanceAccessor.3
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/MooseX::SemiAffordanceAccessor.3
+END
+Template::Plugin::Filter.3
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Template::Plugin::Filter.3
+END
+Module::Build::Platform::Unix.3
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Module::Build::Platform::Unix.3
+END
+Module::Build::PPMMaker.3
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Module::Build::PPMMaker.3
+END
+TAP::Formatter::Base.3
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/TAP::Formatter::Base.3
+END
+CPAN::Debug.3
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/CPAN::Debug.3
+END
+Data::Visitor.3
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Data::Visitor.3
+END
+Class::MOP::Mixin::AttributeCore.3
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Class::MOP::Mixin::AttributeCore.3
+END
+WWW::Mechanize::Examples.3
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/WWW::Mechanize::Examples.3
+END
+Class::MOP::Method::Inlined.3
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Class::MOP::Method::Inlined.3
+END
+TAP::Parser::Iterator.3
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/TAP::Parser::Iterator.3
+END
+Locale::Maketext::Simple.3
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Locale::Maketext::Simple.3
+END
+Class::MOP::Mixin::HasAttributes.3
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Class::MOP::Mixin::HasAttributes.3
+END
+Config::Any::INI.3
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Config::Any::INI.3
+END
+JSON::XS::Boolean.3
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/JSON::XS::Boolean.3
+END
+MooseX::Getopt::Dashes.3
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/MooseX::Getopt::Dashes.3
+END
+List::Util.3
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/List::Util.3
+END
+Compress::Raw::Zlib.3
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Compress::Raw::Zlib.3
+END
+Template::Document.3
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Template::Document.3
+END
+Test::use::ok.3
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Test::use::ok.3
+END
+Tree::Simple::Visitor::FindByPath.3
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Tree::Simple::Visitor::FindByPath.3
+END
+Class::MOP::Module.3
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Class::MOP::Module.3
+END
+DBD::Gofer::Policy::pedantic.3
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/DBD::Gofer::Policy::pedantic.3
+END
+Template::Plugins.3
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Template::Plugins.3
+END
+Template::Stash::XS.3
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Template::Stash::XS.3
+END
+File::ChangeNotify.3
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/File::ChangeNotify.3
+END
+ExtUtils::MM_Unix.3
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/ExtUtils::MM_Unix.3
+END
+List::MoreUtils.3
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/List::MoreUtils.3
+END
+Catalyst::DispatchType::Index.3
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Catalyst::DispatchType::Index.3
+END
+Module::Pluggable::Object.3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Module::Pluggable::Object.3
+END
+Moose::Error::Default.3
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Moose::Error::Default.3
+END
+Moose::Cookbook::Snack::Types.3
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Moose::Cookbook::Snack::Types.3
+END
+metaclass.3
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/metaclass.3
+END
+MooseX::Role::WithOverloading::Meta::Role::Application::ToInstance.3
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/MooseX::Role::WithOverloading::Meta::Role::Application::ToInstance.3
+END
+Class::MOP::Object.3
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Class::MOP::Object.3
+END
+DBD::Gofer::Transport::Base.3
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/DBD::Gofer::Transport::Base.3
+END
+DBI::DBD::Metadata.3
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/DBI::DBD::Metadata.3
+END
+Test::More.3
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Test::More.3
+END
+Test::YAML.3
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Test::YAML.3
+END
+Moose::Cookbook::Extending::Recipe4.3
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Moose::Cookbook::Extending::Recipe4.3
+END
+Catalyst::Engine::Apache2::MP20.3
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Catalyst::Engine::Apache2::MP20.3
+END
+lib::core::only.3
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/lib::core::only.3
+END
+DBD::Gofer::Policy::classic.3
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/DBD::Gofer::Policy::classic.3
+END
+TAP::Parser::SourceHandler::Perl.3
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/TAP::Parser::SourceHandler::Perl.3
+END
+Class::MOP::Mixin::HasMethods.3
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Class::MOP::Mixin::HasMethods.3
+END
+MooseX::Role::WithOverloading::Meta::Role::Composite.3
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/MooseX::Role::WithOverloading::Meta::Role::Composite.3
+END
+Test::Tester::Capture.3
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Test::Tester::Capture.3
+END
+DBI::Profile.3
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/DBI::Profile.3
+END
+MooseX::Types::Util.3
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/MooseX::Types::Util.3
+END
+DBI::W32ODBC.3
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/DBI::W32ODBC.3
+END
+ExtUtils::MM_Any.3
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/ExtUtils::MM_Any.3
+END
+IO::Uncompress::Bunzip2.3
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/IO::Uncompress::Bunzip2.3
+END
+HTML::Tree.3
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/HTML::Tree.3
+END
+Test::Builder.3
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Test::Builder.3
+END
+URI::WithBase.3
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/URI::WithBase.3
+END
+Data::Serializer::Convert::Bencode.3
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Data::Serializer::Convert::Bencode.3
+END
+Catalyst::Script::Test.3
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Catalyst::Script::Test.3
+END
+Catalyst::Component::ContextClosure.3
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Catalyst::Component::ContextClosure.3
+END
+Package::Stash::XS.3
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Package::Stash::XS.3
+END
+ExtUtils::MakeMaker.3
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/ExtUtils::MakeMaker.3
+END
+Catalyst::Engine::FastCGI.3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Catalyst::Engine::FastCGI.3
+END
+Moose::Meta::Attribute.3
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Moose::Meta::Attribute.3
+END
+Catalyst::Request::REST::ForBrowsers.3
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Catalyst::Request::REST::ForBrowsers.3
+END
+Catalyst::Component::ApplicationAttribute.3
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Catalyst::Component::ApplicationAttribute.3
+END
+Template::Filters.3
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Template::Filters.3
+END
+Module::Build.3
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Module::Build.3
+END
+DBI::Const::GetInfoReturn.3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/DBI::Const::GetInfoReturn.3
+END
+File::ChangeNotify::Watcher::Inotify.3
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/File::ChangeNotify::Watcher::Inotify.3
+END
+TAP::Parser::Source.3
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/TAP::Parser::Source.3
+END
+AppConfig::State.3
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/AppConfig::State.3
+END
+Module::ScanDeps::DataFeed.3
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Module::ScanDeps::DataFeed.3
+END
+ExtUtils::testlib.3
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/ExtUtils::testlib.3
+END
+Module::Build::Platform::VOS.3
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Module::Build::Platform::VOS.3
+END
+ExtUtils::Packlist.3
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/ExtUtils::Packlist.3
+END
+MooseX::Types::CheckedUtilExports.3
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/MooseX::Types::CheckedUtilExports.3
+END
+HTML::Element.3
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/HTML::Element.3
+END
+Class::C3::next.3
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Class::C3::next.3
+END
+Moose::Manual.3
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Moose::Manual.3
+END
+CPAN::API::HOWTO.3
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/CPAN::API::HOWTO.3
+END
+ExtUtils::MM_DOS.3
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/ExtUtils::MM_DOS.3
+END
+Getopt::Long::Descriptive::Usage.3
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Getopt::Long::Descriptive::Usage.3
+END
+Catalyst::Engine::Apache2.3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Catalyst::Engine::Apache2.3
+END
+Module::Build::API.3
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Module::Build::API.3
+END
+ExtUtils::MM_BeOS.3
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/ExtUtils::MM_BeOS.3
+END
+Module::Load.3
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Module::Load.3
+END
+Tree::Simple::Visitor::PathToRoot.3
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Tree::Simple::Visitor::PathToRoot.3
+END
+Catalyst::Plugin::ConfigLoader::Manual.3
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Catalyst::Plugin::ConfigLoader::Manual.3
+END
+PadWalker.3
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/PadWalker.3
+END
+XML::SAX::PurePerl::Reader.3
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/XML::SAX::PurePerl::Reader.3
+END
+Catalyst::Controller.3
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Catalyst::Controller.3
+END
+Spreadsheet::ParseExcel::FmtJapan.3
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Spreadsheet::ParseExcel::FmtJapan.3
+END
+TAP::Parser::SourceHandler::Executable.3
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/TAP::Parser::SourceHandler::Executable.3
+END
+Template::Service.3
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Template::Service.3
+END
+Task::Weaken.3
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Task::Weaken.3
+END
+Data::Serializer::Config::General.3
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Data::Serializer::Config::General.3
+END
+DBD::Gofer::Transport::corostream.3
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/DBD::Gofer::Transport::corostream.3
+END
+DBI::Gofer::Transport::Base.3
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/DBI::Gofer::Transport::Base.3
+END
+XML::Parser::Expat.3
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/XML::Parser::Expat.3
+END
+AppConfig::Sys.3
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/AppConfig::Sys.3
+END
+AppConfig::File.3
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/AppConfig::File.3
+END
+DBI::Const::GetInfoType.3
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/DBI::Const::GetInfoType.3
+END
+Template::Manual::VMethods.3
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Template::Manual::VMethods.3
+END
+Catalyst::Action::SerializeBase.3
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Catalyst::Action::SerializeBase.3
+END
+Template::Plugin::View.3
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Template::Plugin::View.3
+END
+MooseX::Getopt::OptionTypeMap.3
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/MooseX::Getopt::OptionTypeMap.3
+END
+MooseX::MethodAttributes::Role::AttrContainer.3
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/MooseX::MethodAttributes::Role::AttrContainer.3
+END
+CPAN::Tarzip.3
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/CPAN::Tarzip.3
+END
+HTML::PullParser.3
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/HTML::PullParser.3
+END
+Catalyst::TraitFor::Request::REST.3
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Catalyst::TraitFor::Request::REST.3
+END
+Carp::Assert::More.3
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Carp::Assert::More.3
+END
+Template::Plugin::File.3
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Template::Plugin::File.3
+END
+MooseX::Role::WithOverloading::Meta::Role::Application.3
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/MooseX::Role::WithOverloading::Meta::Role::Application.3
+END
+Template::Plugin::Image.3
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Template::Plugin::Image.3
+END
+Package::Stash::PP.3
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Package::Stash::PP.3
+END
+Tree::Simple::Visitor::LoadClassHierarchy.3
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Tree::Simple::Visitor::LoadClassHierarchy.3
+END
+TAP::Parser::IteratorFactory.3
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/TAP::Parser::IteratorFactory.3
+END
+YAML::Loader.3
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/YAML::Loader.3
+END
+DBI::Gofer::Serializer::DataDumper.3
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/DBI::Gofer::Serializer::DataDumper.3
+END
+ExtUtils::CBuilder.3
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/ExtUtils::CBuilder.3
+END
+Spreadsheet::ParseExcel::Utility.3
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Spreadsheet::ParseExcel::Utility.3
+END
+Tree::Simple::Visitor::FromNestedHash.3
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Tree::Simple::Visitor::FromNestedHash.3
+END
+Moose.3
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Moose.3
+END
+Catalyst::Engine::HTTP.3
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Catalyst::Engine::HTTP.3
+END
+Template::Plugin::Procedural.3
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Template::Plugin::Procedural.3
+END
+Catalyst::Action::RenderView.3
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Catalyst::Action::RenderView.3
+END
+Moose::Meta::Instance.3
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Moose::Meta::Instance.3
+END
+Path::Class::Entity.3
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Path::Class::Entity.3
+END
+Template::FAQ.3
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Template::FAQ.3
+END
+Tree::Simple::VisitorFactory.3
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Tree::Simple::VisitorFactory.3
+END
+DBI::DBD::SqlEngine::HowTo.3
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/DBI::DBD::SqlEngine::HowTo.3
+END
+Template::Stash::Context.3
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Template::Stash::Context.3
+END
+MooseX::Getopt::GLD.3
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/MooseX::Getopt::GLD.3
+END
+Params::ValidateXS.3
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Params::ValidateXS.3
+END
+Moose::Meta::Method::Meta.3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Moose::Meta::Method::Meta.3
+END
+Tie::ToObject.3
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Tie::ToObject.3
+END
+Class::MOP::Method::Accessor.3
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Class::MOP::Method::Accessor.3
+END
+Moose::Util.3
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Moose::Util.3
+END
+HTML::Parser.3
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/HTML::Parser.3
+END
+MooseX::MethodAttributes::Role::Meta::Role::Application::Summation.3
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/MooseX::MethodAttributes::Role::Meta::Role::Application::Summation.3
+END
+Variable::Magic.3
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Variable::Magic.3
+END
+File::GlobMapper.3
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/File::GlobMapper.3
+END
+Template::Plugin::Math.3
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Template::Plugin::Math.3
+END
+Tree::Simple::Visitor::PreOrderTraversal.3
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Tree::Simple::Visitor::PreOrderTraversal.3
+END
+Module::CoreList.3
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Module::CoreList.3
+END
+Moose::Meta::Role.3
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Moose::Meta::Role.3
+END
+Moose::Meta::Attribute::Native::Trait::String.3
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Moose::Meta::Attribute::Native::Trait::String.3
+END
+Moose::Error::Croak.3
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Moose::Error::Croak.3
+END
+Catalyst::TraitFor::Request::REST::ForBrowsers.3
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Catalyst::TraitFor::Request::REST::ForBrowsers.3
+END
+ExtUtils::MM_VMS.3
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/ExtUtils::MM_VMS.3
+END
+Catalyst::Stats.3
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Catalyst::Stats.3
+END
+MooseX::Getopt::Meta::Attribute::NoGetopt.3
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/MooseX::Getopt::Meta::Attribute::NoGetopt.3
+END
+Devel::PPPort.3
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Devel::PPPort.3
+END
+ExtUtils::Liblist.3
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/ExtUtils::Liblist.3
+END
+Sub::Exporter::Util.3
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Sub::Exporter::Util.3
+END
+MooseX::Role::WithOverloading.3
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/MooseX::Role::WithOverloading.3
+END
+Text::SimpleTable.3
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Text::SimpleTable.3
+END
+ExtUtils::MakeMaker::Tutorial.3
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/ExtUtils::MakeMaker::Tutorial.3
+END
+MooseX::Types::Common::String.3
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/MooseX::Types::Common::String.3
+END
+Parse::CPAN::Meta.3
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Parse::CPAN::Meta.3
+END
+IO::Socket::UNIX.3
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/IO::Socket::UNIX.3
+END
+Class::Inspector::Functions.3
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Class::Inspector::Functions.3
+END
+Spreadsheet::ParseExcel::FmtJapan2.3
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Spreadsheet::ParseExcel::FmtJapan2.3
+END
+XML::Simple.3
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/XML::Simple.3
+END
+Template::Manual::Views.3
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Template::Manual::Views.3
+END
+Moose::Meta::Attribute::Native::Trait::Hash.3
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Moose::Meta::Attribute::Native::Trait::Hash.3
+END
+IO::Uncompress::Inflate.3
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/IO::Uncompress::Inflate.3
+END
+DBI::PurePerl.3
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/DBI::PurePerl.3
+END
+Template::Manual::Internals.3
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Template::Manual::Internals.3
+END
+MooseX::Types::Base.3
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/MooseX::Types::Base.3
+END
+YAML.3
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/YAML.3
+END
+DBI::DBD::SqlEngine::Developers.3
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/DBI::DBD::SqlEngine::Developers.3
+END
+Moose::Meta::Method::Destructor.3
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Moose::Meta::Method::Destructor.3
+END
+Template::Toolkit.3
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Template::Toolkit.3
+END
+Devel::Caller.3
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Devel::Caller.3
+END
+MooseX::MethodAttributes.3
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/MooseX::MethodAttributes.3
+END
+Catalyst::Test.3
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Catalyst::Test.3
+END
+Catalyst::ActionChain.3
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Catalyst::ActionChain.3
+END
+ok.3
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/ok.3
+END
+Params::ValidatePP.3
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Params::ValidatePP.3
+END
+Moose::Meta::TypeConstraint::Class.3
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Moose::Meta::TypeConstraint::Class.3
+END
+ExtUtils::Command::MM.3
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/ExtUtils::Command::MM.3
+END
+Moose::Manual::MooseX.3
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Moose::Manual::MooseX.3
+END
+Catalyst::DispatchType::Default.3
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Catalyst::DispatchType::Default.3
+END
+MooseX::Role::WithOverloading::Meta::Role::Application::FixOverloadedRefs.3
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/MooseX::Role::WithOverloading::Meta::Role::Application::FixOverloadedRefs.3
+END
+Template::Tutorial.3
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Template::Tutorial.3
+END
+Moose::Manual::Delegation.3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Moose::Manual::Delegation.3
+END
+URI::Find::Schemeless.3
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/URI::Find::Schemeless.3
+END
+Template::Tools::tpage.3
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Template::Tools::tpage.3
+END
+Module::Build::Notes.3
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Module::Build::Notes.3
+END
+Moose::Meta::Mixin::AttributeCore.3
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Moose::Meta::Mixin::AttributeCore.3
+END
+HTTP::Server::Simple.3
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/HTTP::Server::Simple.3
+END
+Acme::LOLCAT.3
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Acme::LOLCAT.3
+END
+ExtUtils::MM_NW5.3
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/ExtUtils::MM_NW5.3
+END
+Tree::Simple::Visitor::LoadDirectoryTree.3
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Tree::Simple::Visitor::LoadDirectoryTree.3
+END
+MooseX::Role::WithOverloading::Meta::Role.3
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/MooseX::Role::WithOverloading::Meta::Role.3
+END
+Tree::Simple::Visitor::Sort.3
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Tree::Simple::Visitor::Sort.3
+END
+Moose::Cookbook::Basics::Recipe1.3
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Moose::Cookbook::Basics::Recipe1.3
+END
+TAP::Base.3
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/TAP::Base.3
+END
+Template::Manual::Directives.3
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Template::Manual::Directives.3
+END
+Moose::Meta::TypeConstraint::Union.3
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Moose::Meta::TypeConstraint::Union.3
+END
+TAP::Parser::Iterator::Process.3
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/TAP::Parser::Iterator::Process.3
+END
+MooseX::Types::Wrapper.3
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/MooseX::Types::Wrapper.3
+END
+CPAN::Queue.3
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/CPAN::Queue.3
+END
+DBI::Gofer::Transport::pipeone.3
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/DBI::Gofer::Transport::pipeone.3
+END
+MooseX::Types::TypeDecorator.3
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/MooseX::Types::TypeDecorator.3
+END
+TAP::Parser::Aggregator.3
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/TAP::Parser::Aggregator.3
+END
+Scope::Guard.3
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Scope::Guard.3
+END
+TAP::Harness::Beyond.3
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/TAP::Harness::Beyond.3
+END
+Catalyst::Delta.3
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Catalyst::Delta.3
+END
+YAML::Dumper::Base.3
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/YAML::Dumper::Base.3
+END
+Data::Serializer::JSON::Syck.3
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Data::Serializer::JSON::Syck.3
+END
+MRO::Compat.3
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/MRO::Compat.3
+END
+IO::Compress::Base.3
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/IO::Compress::Base.3
+END
+Moose::Meta::Class.3
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Moose::Meta::Class.3
+END
+HTML::HeadParser.3
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/HTML::HeadParser.3
+END
+Catalyst::ScriptRunner.3
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Catalyst::ScriptRunner.3
+END
+Catalyst::Action::REST.3
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Catalyst::Action::REST.3
+END
+Class::MOP::Method.3
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Class::MOP::Method.3
+END
+ExtUtils::MM_Win95.3
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/ExtUtils::MM_Win95.3
+END
+MooseX::Types::UndefinedType.3
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/MooseX::Types::UndefinedType.3
+END
+Moose::Meta::Method::Constructor.3
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Moose::Meta::Method::Constructor.3
+END
+WWW::Mechanize.3
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/WWW::Mechanize.3
+END
+Moose::Manual::Unsweetened.3
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Moose::Manual::Unsweetened.3
+END
+Digest::SHA.3
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Digest::SHA.3
+END
+Algorithm::C3.3
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Algorithm::C3.3
+END
+ExtUtils::MM_Darwin.3
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/ExtUtils::MM_Darwin.3
+END
+XML::SAX::Exception.3
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/XML::SAX::Exception.3
+END
+AppConfig.3
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/AppConfig.3
+END
+Moose::Meta::Role::Method.3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Moose::Meta::Role::Method.3
+END
+Moose::Meta::Role::Application::ToClass.3
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Moose::Meta::Role::Application::ToClass.3
+END
+MooseX::Adopt::Class::Accessor::Fast.3
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/MooseX::Adopt::Class::Accessor::Fast.3
+END
+Module::Build::Platform::MPEiX.3
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Module::Build::Platform::MPEiX.3
+END
+Catalyst::Upgrading.3
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Catalyst::Upgrading.3
+END
+Template::Provider.3
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Template::Provider.3
+END
+Class::Accessor.3
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Class::Accessor.3
+END
+Catalyst::Dispatcher.3
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Catalyst::Dispatcher.3
+END
+Catalyst::Helper::Model::DBI.3
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Catalyst::Helper::Model::DBI.3
+END
+DBD::Gofer::Transport::null.3
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/DBD::Gofer::Transport::null.3
+END
+Moose::Util::MetaRole.3
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Moose::Util::MetaRole.3
+END
+Moose::Cookbook::Roles::Recipe1.3
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Moose::Cookbook::Roles::Recipe1.3
+END
+namespace::clean.3
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/namespace::clean.3
+END
+MooseX::Role::WithOverloading::Meta::Role::Application::Composite::ToInstance.3
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/MooseX::Role::WithOverloading::Meta::Role::Application::Composite::ToInstance.3
+END
+Data::Serializer.3
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Data::Serializer.3
+END
+Template::Plugin::HTML.3
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Template::Plugin::HTML.3
+END
+DBD::Sponge.3
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/DBD::Sponge.3
+END
+Moose::Meta::Role::Composite.3
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Moose::Meta::Role::Composite.3
+END
+Dist::CheckConflicts.3
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Dist::CheckConflicts.3
+END
+Moose::Cookbook.3
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Moose::Cookbook.3
+END
+ExtUtils::MakeMaker::Config.3
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/ExtUtils::MakeMaker::Config.3
+END
+Tree::Simple.3
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Tree::Simple.3
+END
+MooseX::Emulate::Class::Accessor::Fast.3
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/MooseX::Emulate::Class::Accessor::Fast.3
+END
+CGI::Simple.3
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/CGI::Simple.3
+END
+Moose::Cookbook::Basics::Recipe2.3
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Moose::Cookbook::Basics::Recipe2.3
+END
+Module::Build::Platform::aix.3
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Module::Build::Platform::aix.3
+END
+Config::Any::YAML.3
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Config::Any::YAML.3
+END
+Template::VMethods.3
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Template::VMethods.3
+END
+Test::NoWarnings.3
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Test::NoWarnings.3
+END
+Class::MOP::Deprecated.3
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Class::MOP::Deprecated.3
+END
+MooseX::Types::Moose.3
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/MooseX::Types::Moose.3
+END
+Moose::Meta::TypeConstraint::Role.3
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Moose::Meta::TypeConstraint::Role.3
+END
+Moose::Meta::Object::Trait.3
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Moose::Meta::Object::Trait.3
+END
+Module::Build::Platform::Windows.3
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Module::Build::Platform::Windows.3
+END
+Moose::Meta::Method::Delegation.3
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Moose::Meta::Method::Delegation.3
+END
+Spreadsheet::ParseExcel::Font.3
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Spreadsheet::ParseExcel::Font.3
+END
+JSON::backportPP.3
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/JSON::backportPP.3
+END
+MooseX::Role::WithOverloading::Meta::Role::Application::Composite::ToRole.3
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/MooseX::Role::WithOverloading::Meta::Role::Application::Composite::ToRole.3
+END
+Template::Manual::Plugins.3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Template::Manual::Plugins.3
+END
+Class::MOP::Method::Constructor.3
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Class::MOP::Method::Constructor.3
+END
+File::Spec::Win32.3
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/File::Spec::Win32.3
+END
+DBI::DBD::SqlEngine.3
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/DBI::DBD::SqlEngine.3
+END
+Data::Dump::Trace.3
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Data::Dump::Trace.3
+END
+IO::AtomicFile.3
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/IO::AtomicFile.3
+END
+Path::Class::File.3
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Path::Class::File.3
+END
+File::Spec::Functions.3
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/File::Spec::Functions.3
+END
+Data::Serializer::FreezeThaw.3
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Data::Serializer::FreezeThaw.3
+END
+Tree::Simple::Visitor::VariableDepthClone.3
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Tree::Simple::Visitor::VariableDepthClone.3
+END
+Moose::Meta::Class::Immutable::Trait.3
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Moose::Meta::Class::Immutable::Trait.3
+END
+DBI::Gofer::Serializer::Storable.3
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/DBI::Gofer::Serializer::Storable.3
+END
+CPAN::HandleConfig.3
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/CPAN::HandleConfig.3
+END
+TAP::Formatter::File::Session.3
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/TAP::Formatter::File::Session.3
+END
+namespace::autoclean.3
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/namespace::autoclean.3
+END
+Moose::Meta::Method::Augmented.3
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Moose::Meta::Method::Augmented.3
+END
+MooseX::Getopt.3
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/MooseX::Getopt.3
+END
+YAML::Base.3
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/YAML::Base.3
+END
+DBD::File::HowTo.3
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/DBD::File::HowTo.3
+END
+Moose::Cookbook::Roles::Recipe2.3
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Moose::Cookbook::Roles::Recipe2.3
+END
+IO::Wrap.3
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/IO::Wrap.3
+END
+File::Spec::OS2.3
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/File::Spec::OS2.3
+END
+Module::Build::Platform::cygwin.3
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Module::Build::Platform::cygwin.3
+END
+Template::Plugin::Directory.3
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Template::Plugin::Directory.3
+END
+Moose::Meta::Attribute::Native::Trait::Counter.3
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Moose::Meta::Attribute::Native::Trait::Counter.3
+END
+YAML::Loader::Base.3
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/YAML::Loader::Base.3
+END
+Module::Build::ConfigData.3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Module::Build::ConfigData.3
+END
+HTML::Entities.3
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/HTML::Entities.3
+END
+DBI.3
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/DBI.3
+END
+DBD::DBM.3
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/DBD::DBM.3
+END
+XML::Parser.3
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/XML::Parser.3
+END
+XML::Parser::Style::Debug.3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/XML::Parser::Style::Debug.3
+END
+IO::Compress::Bzip2.3
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/IO::Compress::Bzip2.3
+END
+XML::Parser::Style::Objects.3
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/XML::Parser::Style::Objects.3
+END
+Moose::Meta::TypeConstraint::DuckType.3
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Moose::Meta::TypeConstraint::DuckType.3
+END
+Moose::Cookbook::Basics::Recipe3.3
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Moose::Cookbook::Basics::Recipe3.3
+END
+Spreadsheet::ParseExcel.3
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Spreadsheet::ParseExcel.3
+END
+Exporter.3
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Exporter.3
+END
+Moose::Meta::Method::Accessor.3
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Moose::Meta::Method::Accessor.3
+END
+Digest::MD5.3
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Digest::MD5.3
+END
+Spreadsheet::ParseExcel::Workbook.3
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Spreadsheet::ParseExcel::Workbook.3
+END
+File::Copy::Recursive.3
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/File::Copy::Recursive.3
+END
+Template::Manual::Filters.3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/Template::Manual::Filters.3
+END
+App::Prove::State::Result::Test.3
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/webservices/!svn/ver/5/trunk/local/man/man3/App::Prove::State::Result::Test.3
+END

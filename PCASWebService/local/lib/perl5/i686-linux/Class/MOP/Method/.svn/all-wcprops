@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/Class/MOP/Method
+END
+Constructor.pm
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/Class/MOP/Method/Constructor.pm
+END
+Meta.pm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/Class/MOP/Method/Meta.pm
+END
+Generated.pm
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/Class/MOP/Method/Generated.pm
+END
+Accessor.pm
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/Class/MOP/Method/Accessor.pm
+END
+Inlined.pm
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/Class/MOP/Method/Inlined.pm
+END
+Wrapped.pm
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/Class/MOP/Method/Wrapped.pm
+END

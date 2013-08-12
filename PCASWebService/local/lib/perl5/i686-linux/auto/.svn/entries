@@ -1,0 +1,223 @@
+10
+
+dir
+14
+http://10.10.11.161/repos/webservices/trunk/local/lib/perl5/i686-linux/auto
+http://10.10.11.161/repos/webservices
+
+
+
+2011-02-01T05:00:52.817216Z
+5
+sdiep@liaison-intl.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0503aafc-299f-4db0-a603-1daad9f1f65f
+
+File
+dir
+
+PAR
+dir
+
+Params
+dir
+
+Sub
+dir
+
+DBD
+dir
+
+local
+dir
+
+Package
+dir
+
+namespace
+dir
+
+DBI
+dir
+
+XML
+dir
+
+Getopt
+dir
+
+Config
+dir
+
+Class
+dir
+
+String
+dir
+
+Exporter
+dir
+
+JSON
+dir
+
+PadWalker
+dir
+
+IPC
+dir
+
+OLE
+dir
+
+Digest
+dir
+
+WWW
+dir
+
+Carp
+dir
+
+Algorithm
+dir
+
+Compress
+dir
+
+Tree
+dir
+
+Locale
+dir
+
+Task
+dir
+
+Dist
+dir
+
+Acme
+dir
+
+AppConfig
+dir
+
+IO
+dir
+
+Spreadsheet
+dir
+
+Data
+dir
+
+Parse
+dir
+
+List
+dir
+
+Cwd
+dir
+
+Test
+dir
+
+HTTP
+dir
+
+Tie
+dir
+
+B
+dir
+
+Archive
+dir
+
+Moose
+dir
+
+Catalyst
+dir
+
+Variable
+dir
+
+Module
+dir
+
+Net
+dir
+
+Path
+dir
+
+aliased
+dir
+
+HTML
+dir
+
+Scope
+dir
+
+Template
+dir
+
+CPAN
+dir
+
+ExtUtils
+dir
+
+Text
+dir
+
+version
+dir
+
+MIME
+dir
+
+common
+dir
+
+MRO
+dir
+
+URI
+dir
+
+Devel
+dir
+
+YAML
+dir
+
+CGI
+dir
+
+Attribute
+dir
+
+MooseX
+dir
+
+Try
+dir
+

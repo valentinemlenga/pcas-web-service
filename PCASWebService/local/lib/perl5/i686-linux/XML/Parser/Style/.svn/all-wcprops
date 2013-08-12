@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/XML/Parser/Style
+END
+Debug.pm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/XML/Parser/Style/Debug.pm
+END
+Objects.pm
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/XML/Parser/Style/Objects.pm
+END
+Stream.pm
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/XML/Parser/Style/Stream.pm
+END
+Subs.pm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/XML/Parser/Style/Subs.pm
+END
+Tree.pm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/webservices/!svn/ver/4/trunk/local/lib/perl5/i686-linux/XML/Parser/Style/Tree.pm
+END

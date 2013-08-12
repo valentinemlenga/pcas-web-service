@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/webservices/!svn/ver/9/trunk/local/lib/perl5/site_perl/5.8.9/i686-linux/Apache
+END
+TestRun.pm
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/webservices/!svn/ver/9/trunk/local/lib/perl5/site_perl/5.8.9/i686-linux/Apache/TestRun.pm
+END
+TestSSLCA.pm
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/webservices/!svn/ver/9/trunk/local/lib/perl5/site_perl/5.8.9/i686-linux/Apache/TestSSLCA.pm
+END
+TestPerlDB.pm
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/webservices/!svn/ver/9/trunk/local/lib/perl5/site_perl/5.8.9/i686-linux/Apache/TestPerlDB.pm
+END
+TestConfigC.pm
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/webservices/!svn/ver/9/trunk/local/lib/perl5/site_perl/5.8.9/i686-linux/Apache/TestConfigC.pm
+END
+TestMM.pm
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/webservices/!svn/ver/9/trunk/local/lib/perl5/site_perl/5.8.9/i686-linux/Apache/TestMM.pm
+END
+TestReport.pm
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/webservices/!svn/ver/9/trunk/local/lib/perl5/site_perl/5.8.9/i686-linux/Apache/TestReport.pm
+END
+TestHarnessPHP.pm
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/webservices/!svn/ver/9/trunk/local/lib/perl5/site_perl/5.8.9/i686-linux/Apache/TestHarnessPHP.pm
+END
+TestRunPHP.pm
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/webservices/!svn/ver/9/trunk/local/lib/perl5/site_perl/5.8.9/i686-linux/Apache/TestRunPHP.pm
+END
+TestConfigPHP.pm
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/webservices/!svn/ver/9/trunk/local/lib/perl5/site_perl/5.8.9/i686-linux/Apache/TestConfigPHP.pm
+END
+TestHandler.pm
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/webservices/!svn/ver/9/trunk/local/lib/perl5/site_perl/5.8.9/i686-linux/Apache/TestHandler.pm
+END
+TestClient.pm
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/webservices/!svn/ver/9/trunk/local/lib/perl5/site_perl/5.8.9/i686-linux/Apache/TestClient.pm
+END
+Test.pm
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/webservices/!svn/ver/9/trunk/local/lib/perl5/site_perl/5.8.9/i686-linux/Apache/Test.pm
+END
+TestSort.pm
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/webservices/!svn/ver/9/trunk/local/lib/perl5/site_perl/5.8.9/i686-linux/Apache/TestSort.pm
+END
+TestConfigPerl.pm
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/webservices/!svn/ver/9/trunk/local/lib/perl5/site_perl/5.8.9/i686-linux/Apache/TestConfigPerl.pm
+END
+TestRunParrot.pm
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/webservices/!svn/ver/9/trunk/local/lib/perl5/site_perl/5.8.9/i686-linux/Apache/TestRunParrot.pm
+END
+Test5005compat.pm
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/webservices/!svn/ver/9/trunk/local/lib/perl5/site_perl/5.8.9/i686-linux/Apache/Test5005compat.pm
+END
+TestMB.pm
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/webservices/!svn/ver/9/trunk/local/lib/perl5/site_perl/5.8.9/i686-linux/Apache/TestMB.pm
+END
+TestBuild.pm
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/webservices/!svn/ver/9/trunk/local/lib/perl5/site_perl/5.8.9/i686-linux/Apache/TestBuild.pm
+END
+TestSmokePerl.pm
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/webservices/!svn/ver/9/trunk/local/lib/perl5/site_perl/5.8.9/i686-linux/Apache/TestSmokePerl.pm
+END
+TestHarness.pm
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/webservices/!svn/ver/9/trunk/local/lib/perl5/site_perl/5.8.9/i686-linux/Apache/TestHarness.pm
+END
+TestConfig.pm
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/webservices/!svn/ver/9/trunk/local/lib/perl5/site_perl/5.8.9/i686-linux/Apache/TestConfig.pm
+END
+TestServer.pm
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/webservices/!svn/ver/9/trunk/local/lib/perl5/site_perl/5.8.9/i686-linux/Apache/TestServer.pm
+END
+TestUtil.pm
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/webservices/!svn/ver/9/trunk/local/lib/perl5/site_perl/5.8.9/i686-linux/Apache/TestUtil.pm
+END
+TestSmoke.pm
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/webservices/!svn/ver/9/trunk/local/lib/perl5/site_perl/5.8.9/i686-linux/Apache/TestSmoke.pm
+END
+TestRunPerl.pm
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/webservices/!svn/ver/9/trunk/local/lib/perl5/site_perl/5.8.9/i686-linux/Apache/TestRunPerl.pm
+END
+TestRequest.pm
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/webservices/!svn/ver/9/trunk/local/lib/perl5/site_perl/5.8.9/i686-linux/Apache/TestRequest.pm
+END
+TestCommon.pm
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/webservices/!svn/ver/9/trunk/local/lib/perl5/site_perl/5.8.9/i686-linux/Apache/TestCommon.pm
+END
+TestConfigParrot.pm
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/webservices/!svn/ver/9/trunk/local/lib/perl5/site_perl/5.8.9/i686-linux/Apache/TestConfigParrot.pm
+END
+TestTrace.pm
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/webservices/!svn/ver/9/trunk/local/lib/perl5/site_perl/5.8.9/i686-linux/Apache/TestTrace.pm
+END
+TestReportPerl.pm
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/webservices/!svn/ver/9/trunk/local/lib/perl5/site_perl/5.8.9/i686-linux/Apache/TestReportPerl.pm
+END
+TestCommonPost.pm
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/webservices/!svn/ver/9/trunk/local/lib/perl5/site_perl/5.8.9/i686-linux/Apache/TestCommonPost.pm
+END
+TestConfigParse.pm
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/webservices/!svn/ver/9/trunk/local/lib/perl5/site_perl/5.8.9/i686-linux/Apache/TestConfigParse.pm
+END
